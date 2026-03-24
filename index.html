@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sachkunde §7 WaffG – Karteikarten</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="bg-grid"></div>
+
+  <div class="flash-shell">
+    <header class="flash-topbar glass">
+      <div class="flash-progress-wrap">
+        <div class="flash-progress-meta">
+          <span id="progressLabel">Frage 1 / 12</span>
+        </div>
+        <div class="flash-progress-track" aria-hidden="true">
+          <div id="progressFill" class="flash-progress-fill"></div>
+        </div>
+      </div>
+
+      <a class="metrics-icon-btn" href="metrics.html" title="Metriken" aria-label="Metriken">📊</a>
+    </header>
+
+    <main class="flash-main">
+      <section class="flash-card glass" id="studyCard">
+        <div class="flash-question-meta">
+          <span class="flash-qid" id="questionId">–</span>
+          <span class="pill subtle" id="questionType">–</span>
+        </div>
+
+        <div class="flash-question">
+          <h1 id="questionPrompt">Lade Frage…</h1>
+          <p id="questionSection" class="muted"></p>
+        </div>
+
+        <div id="questionInteraction" class="question-interaction flash-interaction"></div>
+
+        <div id="feedbackBox" class="feedback-box hidden"></div>
+
+        <div class="flash-actions">
+          <button id="btnSubmit" class="btn btn-primary hidden">Prüfen</button>
+          <button id="btnReveal" class="btn btn-primary hidden">Antwort anzeigen</button>
+          <button id="btnMarkWrong" class="btn btn-danger hidden">Falsch</button>
+          <button id="btnMarkRight" class="btn btn-success hidden">Richtig</button>
+          <button id="btnBackToQuestion" class="btn btn-secondary hidden">Zurück</button>
+          <button id="btnNext" class="btn btn-secondary hidden">Weiter</button>
+        </div>
+      </section>
+
+      <section class="flash-summary glass hidden" id="summaryScreen">
+        <div class="eyebrow">Batch abgeschlossen</div>
+        <h2 id="summaryTitle">12 / 12 gemeistert</h2>
+        <p id="summarySubtitle" class="muted">Die falsch beantworteten Fragen wurden bis zur sicheren Antwort wiederholt.</p>
+
+        <div class="flash-summary-grid">
+          <article class="flash-summary-stat">
+            <span>Erste Runde</span>
+            <strong id="summaryFirstPass">0 / 12</strong>
+          </article>
+          <article class="flash-summary-stat">
+            <span>Trefferquote</span>
+            <strong id="summaryAccuracy">0%</strong>
+          </article>
+          <article class="flash-summary-stat">
+            <span>Wiederholungen</span>
+            <strong id="summaryRecycled">0</strong>
+          </article>
+          <article class="flash-summary-stat">
+            <span>Runden</span>
+            <strong id="summaryRounds">1</strong>
+          </article>
+        </div>
+
+        <div id="summaryNote" class="feedback-box info"></div>
+
+        <div class="flash-actions flash-summary-actions">
+          <button id="btnNextBatch" class="btn btn-primary">Nächster Batch</button>
+        </div>
+      </section>
+    </main>
+  </div>
+
+  <script src="questions-data.js"></script>
+  <script src="common.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sachkunde §7 WaffG – Metriken</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-orb orb-1"></div>
+  <div class="bg-orb orb-2"></div>
+  <div class="bg-grid"></div>
+
+  <div class="app-shell app-metrics">
+    <aside class="sidebar glass sidebar-metrics">
+      <div class="brand brand-compact">
+        <div class="brand-badge">§7</div>
+        <div>
+          <h1>Sachkunde Trainer</h1>
+          <p>Auswertung und Langzeitfortschritt</p>
+        </div>
+      </div>
+
+      <nav class="page-nav">
+        <a class="nav-pill" href="index.html">Lernen</a>
+        <a class="nav-pill active" href="metrics.html">Metriken</a>
+      </nav>
+
+      <section class="sidebar-section">
+        <h2>Ansicht</h2>
+        <div class="field">
+          <label for="metricsChapterSelect">Kapitel</label>
+          <select id="metricsChapterSelect">
+            <option value="all">Alle Kapitel</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="metricsTypeSelect">Typ</label>
+          <select id="metricsTypeSelect">
+            <option value="all">Alle Typen</option>
+            <option value="multiple_choice">Multiple Choice</option>
+            <option value="self_assessment">Selbstbewertung</option>
+          </select>
+        </div>
+      </section>
+
+      <section class="sidebar-section">
+        <h2>Daten</h2>
+        <div class="stack compact-gap">
+          <button id="btnExportProgress" class="btn btn-secondary">Fortschritt exportieren</button>
+          <button id="btnImportProgress" class="btn btn-secondary">Fortschritt importieren</button>
+          <input id="progressFileInput" type="file" accept=".json,application/json" hidden />
+          <button id="btnResetProgress" class="btn btn-danger ghost">Fortschritt zurücksetzen</button>
+        </div>
+      </section>
+    </aside>
+
+    <main class="main-content">
+      <header class="topbar glass">
+        <div class="dataset-meta">
+          <div class="eyebrow">Metriken</div>
+          <div class="dataset-title" id="datasetTitle">Lade Datensatz…</div>
+          <div class="dataset-subtitle" id="datasetSubtitle">Bitte warten</div>
+        </div>
+      </header>
+
+      <section class="metrics-grid-top">
+        <article class="stat-card glass">
+          <div class="stat-label">Gesamt</div>
+          <div class="stat-value" id="statTotal">0</div>
+          <div class="stat-sub" id="statReviewed">0 davon bearbeitet</div>
+        </article>
+        <article class="stat-card glass">
+          <div class="stat-label">Beherrscht</div>
+          <div class="stat-value" id="statMastered">0</div>
+          <div class="stat-sub" id="statMasteredPct">0%</div>
+        </article>
+        <article class="stat-card glass">
+          <div class="stat-label">Trefferquote</div>
+          <div class="stat-value" id="statAccuracy">0%</div>
+          <div class="stat-sub"><span id="statCorrect">0</span> richtig / <span id="statIncorrect">0</span> falsch</div>
+        </article>
+        <article class="stat-card glass">
+          <div class="stat-label">Fällig jetzt</div>
+          <div class="stat-value" id="statDue">0</div>
+          <div class="stat-sub"><span id="statUnseen">0</span> neu / <span id="statBookmarks">0</span> gemerkt</div>
+        </article>
+      </section>
+
+      <section class="metrics-layout">
+        <article class="glass metrics-panel metrics-wide">
+          <div class="panel-head">
+            <div>
+              <div class="eyebrow">Lernaktivität</div>
+              <h2>Letzte 14 Tage</h2>
+            </div>
+          </div>
+          <div id="activityChart" class="activity-chart"></div>
+        </article>
+
+        <article class="glass metrics-panel">
+          <div class="panel-head">
+            <div>
+              <div class="eyebrow">Batch-Qualität</div>
+              <h2>Letzte Abschlüsse</h2>
+            </div>
+          </div>
+          <div id="batchHistoryList" class="metric-list scroll-panel"></div>
+        </article>
+
+        <article class="glass metrics-panel metrics-wide">
+          <div class="panel-head">
+            <div>
+              <div class="eyebrow">Kapitelvergleich</div>
+              <h2>Abdeckung und Beherrschung</h2>
+            </div>
+          </div>
+          <div id="chapterMetrics" class="metric-table"></div>
+        </article>
+
+        <article class="glass metrics-panel">
+          <div class="panel-head">
+            <div>
+              <div class="eyebrow">Härteste Fragen</div>
+              <h2>Priorität für die nächste Runde</h2>
+            </div>
+          </div>
+          <div id="hardQuestionList" class="metric-list scroll-panel"></div>
+        </article>
+      </section>
+    </main>
+  </div>
+
+  <script src="questions-data.js"></script>
+  <script src="common.js"></script>
+  <script src="metrics.js"></script>
+</body>
+</html>

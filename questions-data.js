@@ -1,0 +1,8103 @@
+window.SACHKUNDE_DATA = {
+  "source_pdf": "Fragenkatalog_sachkunde_mitAntworten.pdf",
+  "schema_version": 1,
+  "question_count": 345,
+  "questions": [
+    {
+      "id": "1.01",
+      "chapter": "Kapitel I. 1",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 6,
+      "type": "self_assessment",
+      "prompt": "Was regelt das Waffengesetz?",
+      "options": [],
+      "answer_text": "Das Waffengesetz regelt den Umgang mit Waffen oder Munition unter Berücksichtigung der Belange der öffentlichen Sicherheit und Ordnung."
+    },
+    {
+      "id": "1.02",
+      "chapter": "Kapitel I. 1",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 6,
+      "type": "multiple_choice",
+      "prompt": "Umgang mit einer Schusswaffe hat…",
+      "options": [
+        {
+          "key": "a",
+          "text": "wer damit schießt.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "wer die Waffe verbringt oder mitnimmt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "wer die Waffe unbrauchbar macht.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.03",
+      "chapter": "Kapitel I. 1",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 6,
+      "type": "self_assessment",
+      "prompt": "Wie werden Schusswaffen im Sinne des Waffengesetzes definiert?",
+      "options": [],
+      "answer_text": "Schusswaffen sind Gegenstände, die zum Angriff oder zur Verteidigung, zur Signalgebung, zur Jagd, zur Distanzinjektion, zur Markierung, zum Sport oder zum Spiel bestimmt sind und bei denen Geschosse durch einen Lauf getrieben werden (Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. WaffG)."
+    },
+    {
+      "id": "1.04",
+      "chapter": "Kapitel I. 1",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 6,
+      "type": "multiple_choice",
+      "prompt": "Welche der hier genannten Gegenstände sind Schusswaffen im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Armbrust",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Druckluftgewehr mit Zulassungszeichen „F im Fünfeck“",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Doppelflinte",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.05",
+      "chapter": "Kapitel I. 1",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 6,
+      "type": "multiple_choice",
+      "prompt": "Welche der hier genannten Gegenstände sind Schusswaffen, bzw. ihnen gleichgestellte Gegenstände im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Soft-Air-Waffen mit einer Geschossenergie über 0,5 Joule",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Waffen mit einer Mündungsenergie von weniger als 7,5 Joule, bei denen die Geschosse durch Federdruck durch einen Lauf getrieben werden",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Präzisionsschleudern",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.06",
+      "chapter": "Kapitel I. 1",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 6,
+      "type": "multiple_choice",
+      "prompt": "Welche der aufgeführten Waffen ist eine halbautomatische Schusswaffe im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Single-Action-Revolver",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Selbstladepistole",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Doppelflinte",
+          "correct": false
+        },
+        {
+          "key": "d",
+          "text": "Double-Action Revolver",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.07",
+      "chapter": "Kapitel I. 2",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 7,
+      "type": "multiple_choice",
+      "prompt": "Ein Double-Action-Revolver ist im Sinne des Waffenrechts...",
+      "options": [
+        {
+          "key": "a",
+          "text": "eine vollautomatische Waffe.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "keine halbautomatische Waffe.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "eine halbautomatische Waffe.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.08",
+      "chapter": "Kapitel I. 2",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 7,
+      "type": "multiple_choice",
+      "prompt": "Wie ist ein Revolver im „Kleinstkaliber“ 4 mm M20 waffenrechtlich einzuordnen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "WBK-pflichtige Schusswaffe",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Für Personen ab 18 Jahren frei erwerbbar",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Kann mit einem kleinen Waffenschein erworben werden",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.09",
+      "chapter": "Kapitel I. 2",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 7,
+      "type": "self_assessment",
+      "prompt": "Welches sind die wesentlichen Teile einer halbautomatischen Pistole im waffenrechtlichen Sinne?",
+      "options": [],
+      "answer_text": "1. Lauf (Patronenlager) 2. Verschluss 3. Griffstück"
+    },
+    {
+      "id": "1.10",
+      "chapter": "Kapitel I. 2",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 7,
+      "type": "multiple_choice",
+      "prompt": "Was ist die Schließfeder der großkalibrigen Pistole waffenrechtlich gesehen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ein Zubehörteil der Schusswaffe ohne waffenrechtliche Bedeutung.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Ein wesentlicher, erlaubnispflichtiger Teil der Schusswaffe.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ein wesentlicher, beschusspflichtiger Teil der Schusswaffe.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.11",
+      "chapter": "Kapitel I. 2",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 7,
+      "type": "multiple_choice",
+      "prompt": "Erläutern Sie den Begriff „Waffe“ im Sinne des WaffG!",
+      "options": [
+        {
+          "key": "a",
+          "text": "Schusswaffen oder ihnen gleichgestellte Gegenstände.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Tragbare Gegenstände, die ihrem Wesen nach dazu bestimmt sind, die Angriffs- oder Abwehrfähigkeit von Menschen zu beseitigen oder herabzusetzen, insbesondere Hieb- und Stoßwaffen.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Tragbare Gegenstände, die ohne dafür bestimmt zu sein, insbesondere wegen ihrer Beschaffenheit, Handhabung oder Wirkungsweise geeignet sind die Angriffs- oder Abwehrfähigkeit von Menschen zu beseitigen oder herabzusetzen und die im Waffengesetz genannt sind.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.12",
+      "chapter": "Kapitel I. 3",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 8,
+      "type": "multiple_choice",
+      "prompt": "Wie unterscheidet das Waffengesetz Langwaffen und Kurzwaffen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Langwaffen sind Schusswaffen, deren Lauf und Verschluss in geschlossener Stellung insgesamt länger als 30 cm sind und deren kürzeste bestimmungsgemäß verwendbare Gesamtlänge 60 cm überschreitet.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Schusswaffen, die eine Gesamtmindestlänge von 60 cm unterschreiten oder bei denen die Lauflänge kleiner als 30 cm ist, werden als Kurzwaffe bezeichnet.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Kurzwaffen haben maximal eine Länge von 20 cm.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.13",
+      "chapter": "Kapitel I. 3",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 8,
+      "type": "multiple_choice",
+      "prompt": "Welcher der nebenstehend aufgeführten Gegenstände ist eine verbotene Waffe/ verbotener Gegenstand? (Hinweis: Vollständige Aufzählung s. Anlage 2 Abschnitt 1 Waffengesetz)",
+      "options": [
+        {
+          "key": "a",
+          "text": "Blasrohr, Harpune, Armbrust",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "halbautomatisches Gewehr / halbautomatische Pistole",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Schlagring, Stockdegen, Würgeholz (Nun-Chaku)",
+          "correct": true
+        },
+        {
+          "key": "d",
+          "text": "Wurfsterne, bestimmte Hartkernmunition, bestimmte Leuchtspurmunition",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.14",
+      "chapter": "Kapitel I. 3",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 8,
+      "type": "multiple_choice",
+      "prompt": "Welcher der nebenstehend aufgeführten Gegenstände ist eine verbotene Waffe?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Samuraischwert",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "feststehendes Messer mit einer Klinge von mehr als 8,5 cm",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Vorderschaftrepetierflinte mit einer Lauflänge unter 45 cm",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.15",
+      "chapter": "Kapitel I. 3",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 8,
+      "type": "multiple_choice",
+      "prompt": "Bei welchen der aufgeführten Beispiele handelt es sich um „verbotene Waffen“?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Schusswaffen mit Schalldämpfer",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Schusswaffen, die Reihenfeuer (Dauerfeuer) schießen.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Für Schusswaffen bestimmte Vorrichtungen, die das Ziel beleuchten.",
+          "correct": true
+        },
+        {
+          "key": "d",
+          "text": "Vorderschaftrepetierflinten deren Gesamtlänge in der kürzesten Verwendungsform weniger als 95 cm beträgt.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.16",
+      "chapter": "Kapitel I. 4",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 9,
+      "type": "multiple_choice",
+      "prompt": "Welche der nachfolgend genannten Gegenstände sind gemäß Waffengesetz verboten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Schalldämpfer",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Distanz-Elektroimpulsgeräte",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "für Schusswaffen bestimmte Zielscheinwerfer",
+          "correct": true
+        },
+        {
+          "key": "d",
+          "text": "Kleinkaliberpatronen mit Leuchtspurgeschossen",
+          "correct": true
+        },
+        {
+          "key": "e",
+          "text": "Teleskopschlagstöcke",
+          "correct": false
+        },
+        {
+          "key": "f",
+          "text": "Büchsenpatronen mit Treibspiegelgeschossen",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.17",
+      "chapter": "Kapitel I. 4",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 9,
+      "type": "multiple_choice",
+      "prompt": "Welche Gegenstände zählen zu den verbotenen Waffen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Feuerwaffen mit Dauerfeuereinrichtung",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Spielzeugwaffen",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Schusswaffen mit Schalldämpfer",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.18",
+      "chapter": "Kapitel I. 4",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 9,
+      "type": "multiple_choice",
+      "prompt": "Erlaubnispflichtig, jedoch keine verbotene Waffe ist...",
+      "options": [
+        {
+          "key": "a",
+          "text": "ein Fallmesser.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "eine vollautomatische Pistole.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "eine zivile halbautomatische Schusswaffe, die wie eine vollautomatische Kriegswaffe aussieht.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.19",
+      "chapter": "Kapitel I. 4",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 9,
+      "type": "multiple_choice",
+      "prompt": "Welches sind wesentliche Teile von Schusswaffen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "der Lauf",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "das Magazin",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "der Verschluss",
+          "correct": true
+        },
+        {
+          "key": "d",
+          "text": "das Griffstück mit Auslösemechanismus bei Kurzwaffen",
+          "correct": true
+        },
+        {
+          "key": "e",
+          "text": "die Trommel eines Revolvers",
+          "correct": true
+        },
+        {
+          "key": "f",
+          "text": "das Gehäuse bei Langwaffen",
+          "correct": true
+        },
+        {
+          "key": "g",
+          "text": "das Zielfernrohr",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.20",
+      "chapter": "Kapitel I. 5",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 10,
+      "type": "multiple_choice",
+      "prompt": "Was ist ein Schalldämpfer waffenrechtlich gesehen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Der Schalldämpfer ist ein verbotener Gegenstand.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Der Schalldämpfer ist immer erlaubnisfreies Zubehör.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Der Schalldämpfer für eine erlaubnispflichtige Schusswaffe steht waffenrechtlich der Schusswaffe gleich für die sie bestimmt ist.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.21",
+      "chapter": "Kapitel I. 5",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 10,
+      "type": "multiple_choice",
+      "prompt": "Mit welchen Gegenständen (in Verbindung mit einer Schusswaffe) ist der Umgang verboten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Zielscheinwerfer",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Leuchtpunktvisiere für Kurzwaffen",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nachtzielgeräte",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.22",
+      "chapter": "Kapitel I. 5",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 10,
+      "type": "multiple_choice",
+      "prompt": "Mit welcher Munition der Bezeichnung „9 mm Luger“ ist der Umgang verboten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hohlspitzpatronen",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Kleinschrotpatronen",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Leuchtspurpatronen",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.23",
+      "chapter": "Kapitel I. 5",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 10,
+      "type": "multiple_choice",
+      "prompt": "Mit welcher Munition ist der Umgang verboten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kleinschrotmunition für Kartuschenlager bis 12,5 mm (sog. Grenaille-Patronen)",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Patronenmunition mit Vollmantelgeschossen, bei denen die Geschossspitze entfernt wurde, so dass der Bleikern freiliegt",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Patronenmunition mit Treibspiegelgeschossen für Waffen mit gezogenen Läufen",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.24",
+      "chapter": "Kapitel I. 5",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 10,
+      "type": "multiple_choice",
+      "prompt": "Ist eine Patrone mit Wadcutter-Geschoss verbotene Munition?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, denn es handelt sich um ein Dum-Dum-Geschoss.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nein, es ist Scheibenmunition.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.25",
+      "chapter": "Kapitel I. 5",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 10,
+      "type": "multiple_choice",
+      "prompt": "Welche der hier genannten Gegenstände sind keine „wesentlichen Teile“ von Schusswaffen im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wechseltrommel für Revolver",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Klappschaft für Flinten",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Ersatzmagazin für Büchsen",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.26",
+      "chapter": "Kapitel I. 6",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 11,
+      "type": "multiple_choice",
+      "prompt": "Welche der hier genannten Waffen ist ein Einzellader im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "halbautomatische Pistole",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Doppelflinte",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Schreckschussrevolver",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.27",
+      "chapter": "Kapitel I. 6",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 11,
+      "type": "multiple_choice",
+      "prompt": "Welche der hier genannten Waffen sind Mehrlader im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Double-Action-Revolver",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Repetierbüchse",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Doppelflinte",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.28",
+      "chapter": "Kapitel I. 6",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 11,
+      "type": "multiple_choice",
+      "prompt": "Zu welcher Waffenart im Sinne des Waffengesetzes zählt eine Unterhebel-Repetierbüchse (lever-action)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Einzelladerwaffen",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Repetierwaffen",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "halbautomatische Waffen",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.29",
+      "chapter": "Kapitel I. 6",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 11,
+      "type": "multiple_choice",
+      "prompt": "Was zählt zu den Geschossen im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Platzpatronen",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Bleirundkugeln für Vorderlader",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "CO2 - Kartuschen für Druckluftwaffen",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.30",
+      "chapter": "Kapitel I. 6",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 11,
+      "type": "self_assessment",
+      "prompt": "Welche Arten von Munition unterscheidet das Waffengesetz?",
+      "options": [],
+      "answer_text": "- Patronenmunition (Hülsen mit Treibladungen, die ein Geschoss enthalten und Geschosse mit Eigenantrieb) - Kartuschenmunition (Hülsen mit Ladungen, die kein Geschoss enthalten) - Pyrotechnische Munition (Munition, in der explosionsgefährliche Stoffe oder Stoffgemische enthalten sind, die einen Licht-, Schall-, Rauch- oder ähnlichen Effekt erzeugen) - Hülsenlose Munition (Treibladungen mit und ohne Geschosse)"
+    },
+    {
+      "id": "1.31",
+      "chapter": "Kapitel I. 6",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 11,
+      "type": "multiple_choice",
+      "prompt": "Welche Munitionsarten sind vom Waffengesetz erfasst?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Patronenmunition",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "hülsenlose Munition",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "pyrotechnische Munition",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.32",
+      "chapter": "Kapitel I. 7",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 12,
+      "type": "multiple_choice",
+      "prompt": "Zur Munition im Sinne des Waffengesetzes zählen:",
+      "options": [
+        {
+          "key": "a",
+          "text": "Stahlkugeln für Präzisionsschleudern",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Patronenmunition Kaliber .38 Special",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": ".177 (4,5 mm) Rundkugeln",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.33",
+      "chapter": "Kapitel I. 7",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 12,
+      "type": "multiple_choice",
+      "prompt": "Welche der hier genannten Gegenstände sind Munition im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hohlspitzgeschosse für Kurzwaffen",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Armbrustbolzen",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Schrotpatronen",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.34",
+      "chapter": "Kapitel I. 7",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 12,
+      "type": "multiple_choice",
+      "prompt": "Welcher der hier genannten Gegenstände ist keine Munition im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Geschosse für Druckluftgewehre (Diabolos)",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Platzpatronen für Schreckschuss-waffen",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Zündhütchen für Vorderladerwaffen mit Zündhütchenzündung (Perkussion)",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.35",
+      "chapter": "Kapitel I. 7",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 12,
+      "type": "multiple_choice",
+      "prompt": "Welche der nachfolgend genannten Beispiele sind Kartuschenmunition im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Platzpatronen",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Munition mit Betäubungsmittel für die Distanzinjektion",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Zentralfeuerpatronen mit wiederladbaren Hülsen",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.36",
+      "chapter": "Kapitel I. 7",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 12,
+      "type": "self_assessment",
+      "prompt": "Was bedeutet „erwerben“ im Sinne des Waffengesetzes?",
+      "options": [],
+      "answer_text": "Das Erlangen der tatsächlichen Gewalt über die Schusswaffe."
+    },
+    {
+      "id": "1.37",
+      "chapter": "Kapitel I. 7",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 12,
+      "type": "multiple_choice",
+      "prompt": "Was bedeutet „erwerben“ einer Schusswaffe im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Abschluss eines Kaufvertrages",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Einsetzen als Erbe im Testament",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Erlangen der tatsächlichen Gewalt über die Waffe",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.38",
+      "chapter": "Kapitel I. 7",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 12,
+      "type": "multiple_choice",
+      "prompt": "Wer ist Erwerber einer Schusswaffe im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Der Dieb, der die Waffe stiehlt.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Derjenige, der in einem Waffengeschäft lediglich den Kaufvertrag für eine Waffe unterschreibt.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Der Finder, wenn er die Waffen an sich nimmt.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.39",
+      "chapter": "Kapitel I. 8",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 13,
+      "type": "multiple_choice",
+      "prompt": "Sie wollen ihren Revolver mit dem Ihres Schützenkameraden dauerhaft tauschen, was müssen sie dabei beachten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Beide haben eine Erlaubnis zum Erwerb (Voreintrag) der jeweiligen Waffe zu beantragen.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Die Waffen können getauscht werden. Dies ist aber der zuständigen Behörde innerhalb von 14 Tagen anzuzeigen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Es handelt sich um ein gegenseitiges Überlassen und Erwerben.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.40",
+      "chapter": "Kapitel I. 8",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 13,
+      "type": "multiple_choice",
+      "prompt": "Wann wird eine Schusswaffe im Sinne des Gesetzes erworben?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bei unrechtmäßiger Aneignung.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Waffenrechtlicher Erwerb liegt erst bei behördlichem Eintrag der Waffe in die WBK vor.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Wenn der Waffenhändler dem Schützen die Waffe im Geschäft übergibt.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.41",
+      "chapter": "Kapitel I. 8",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 13,
+      "type": "multiple_choice",
+      "prompt": "Wer erwirbt eine Waffe im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Jeder, der die tatsächliche Gewalt über die Waffe erlangt.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Jeder, der sich die Waffe für einen Zeitraum von weniger als 4 Wochen ausleiht.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Jeder, der die tatsächliche Gewalt über die Waffe ausübt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.42",
+      "chapter": "Kapitel I. 8",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 13,
+      "type": "multiple_choice",
+      "prompt": "Wann „erwirbt“ der Käufer eine Waffe im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bei dem Abschluss eines Kaufvertrages.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Bei der Vorlage der Waffenbesitzkarte des Käufers zum Eintrag der Waffe bei seiner zuständigen Behörde.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Bei der Aushändigung der Waffe durch den Verkäufer.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.43",
+      "chapter": "Kapitel I. 8",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 13,
+      "type": "multiple_choice",
+      "prompt": "Was bedeutet „Überlassen“ einer Schusswaffe?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Vererben einer Schusswaffe (nach dem Tod).",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Wer einem anderen die tatsächliche Gewalt darüber einräumt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Verleihen einer Vereinswaffe (für wenige Tage) an einen anderen Verein.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.44",
+      "chapter": "Kapitel I. 9",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 14,
+      "type": "multiple_choice",
+      "prompt": "Wer ist sachkundig im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Derjenige, der vor einem Prüfungsausschuss die Sachkundeprüfung erfolgreich abgelegt hat.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Soldaten, die mehrere Jahre mit Wartung, Pflege und Lagerung von Handfeuerwaffen betraut waren.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Derjenige, der erfolgreich seine Gesellenprüfung im Büchsenmacherhandwerk abgelegt hat.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.45",
+      "chapter": "Kapitel I. 9",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 14,
+      "type": "self_assessment",
+      "prompt": "Was bedeutet „Führen“ im Sinne des Waffengesetzes?",
+      "options": [],
+      "answer_text": "Das Ausüben der tatsächlichen Gewalt außerhalb der eigenen Wohnung, Geschäftsräume, des eigenen befriedeten Besitztums oder einer Schießstätte."
+    },
+    {
+      "id": "1.46",
+      "chapter": "Kapitel I. 9",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 14,
+      "type": "multiple_choice",
+      "prompt": "„Führen“ im Sinne des Waffengesetzes bedeutet Ausübung der tatsächlichen Gewalt...",
+      "options": [
+        {
+          "key": "a",
+          "text": "in der eigenen Wohnung.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "außerhalb des eigenen befriedeten Besitztums.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "durch den Waffenhändler im Geschäftsraum.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.47",
+      "chapter": "Kapitel I. 9",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 14,
+      "type": "multiple_choice",
+      "prompt": "„Führen“ im Sinne des Waffengesetzes liegt vor, wenn die Waffe...",
+      "options": [
+        {
+          "key": "a",
+          "text": "in der eigenen Wohnung im Holster getragen wird.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "im Treppenhaus eines fremden Mehrfamilienhauses im Holster getragen wird.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "im eigenen PKW in der offenen Seitenablage transportiert wird.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.48",
+      "chapter": "Kapitel I. 10",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 15,
+      "type": "multiple_choice",
+      "prompt": "Durch wen und wie wird die waffenrechtliche Zuverlässigkeit einer Person festgestellt?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Die Zuverlässigkeit wird von der zuständigen Behörde geprüft.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Es werden Auskünfte aus dem Bundeszentralregister, dem zentralen staatsanwaltschaftlichen Verfahrensregister, Stellungnahmen der örtlichen Polizeidienststelle, der Bundespolizei und des Zollkriminalamtseingeholt. Zudem werden Auskünfte bei den zuständigen Verfassungsschutzämtern eingeholt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Die Zuverlässigkeit wird durch die persönliche Vorstellung bei der örtlichen Behörde festgestellt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.49",
+      "chapter": "Kapitel I. 10",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 15,
+      "type": "multiple_choice",
+      "prompt": "Wer ist im Sinne des Waffengesetzes in der Regel nicht mehr zuverlässig?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Jeder, der wegen einer vorsätzlich begangenen Straftat zu einer Geldstrafe von mindestens 60 Tagessätzen verurteilt wurde, wenn seit dem Eintritt der Rechtskraft der letzten Verurteilung fünf Jahre noch nicht verstrichen sind.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Jeder, der wegen der Begehung von zwei verschiedenen vorsätzlichen Straftaten mindestens zwei Mal zu einer Geldstrafen verurteilt wurde, wenn seit dem Eintritt der Rechtskraft der letzten Verurteilung fünf Jahre noch nicht verstrichen sind.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Jeder, der wegen einer vorsätzlichen Geschwindigkeitsüberschreitung seinen Führerschein für mehr als 60 Tage abgeben musste.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.50",
+      "chapter": "Kapitel I. 10",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 15,
+      "type": "multiple_choice",
+      "prompt": "Wer ist im Sinne des Waffengesetzes nicht geeignet?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Jeder, bei dem Tatsachen die Annahme rechtfertigen, dass er abhängig von berauschenden Mitteln ist.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Jeder, der aus einem anerkannten Schießsportverband ausgeschlossen wurde.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Jeder, bei dem Tatsachen die Annahme rechtfertigen, dass er aufgrund in der Person liegender Umstände mit Waffen oder Munition unsachgemäß umgehen wird.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.51",
+      "chapter": "Kapitel I. 11",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 16,
+      "type": "self_assessment",
+      "prompt": "Durch wen und wie wird die persönliche Eignung einer Person festgestellt?",
+      "options": [],
+      "answer_text": "Die persönliche Eignung wird von der zuständigen Behörde geprüft; ggf. ist ein amts- oder fachärztliches oder fachpsychologisches Zeugnis beizubringen."
+    },
+    {
+      "id": "1.52",
+      "chapter": "Kapitel I. 11",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 16,
+      "type": "multiple_choice",
+      "prompt": "Wer verfügt im Sinne des Waffengesetzes nicht über die erforderliche persönliche Eignung zum Waffenbesitz.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Grundsätzlich alle Personen unter 25 Jahren, wenn sie kein amts- oder fachärztliches oder fachpsychologisches Zeugnis über ihre geistige und körperliche Eignung vorlegen können.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Personen, bei denen Tatsachen die Annahme rechtfertigen, dass sie psychisch krank oder debil sind.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Personen, bei denen Tatsachen die Annahme rechtfertigen, dass sie alkoholabhängig sind.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.53",
+      "chapter": "Kapitel I. 11",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 16,
+      "type": "multiple_choice",
+      "prompt": "Was versteht man unter dem „Verbringen“ im Sinne des WaffG?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Waffen oder Munition verbringt, wer diese über die Grenze zum dortigen Verbleib oder mit dem Ziel des Besitzwechsels in den, durch den oder aus dem Geltungsbereich des WaffG zu einer anderen Person oder zu sich selbst transportieren lässt oder selbst transportiert.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Waffen werden dauerhaft in einen anderen Mitgliedstaat mit einem Europäischen Feuerwaffenpass verbracht.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Waffen werden mit einem Europäischen Feuerwaffenpass zu einer Schießsportveranstaltung in einem anderen Mitgliedstaat mitgenommen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.54",
+      "chapter": "Kapitel I. 12",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 17,
+      "type": "multiple_choice",
+      "prompt": "Was versteht man unter dem Begriff „Europäischer Feuerwaffenpass“?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Einen europaweit gültigen Waffenschein für gefährdete Personen, die gegenüber dem Bundesverwaltungsamt ein besonderes Schutzbedürfnis glaubhaft gemacht haben.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Eine europaweit gültige Waffenbesitzkarte, die die Waffenmitnahme auf Reisen in Mitgliedstaaten der EU gestattet.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ein von der EU standardisiertes Waffenbesitzdokument (gegebenenfalls ist vor der Einreise in einen anderen Mitgliedstaat dessen Erlaubnis zur Mitnahme einzuholen).",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.55",
+      "chapter": "Kapitel I. 12",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 17,
+      "type": "multiple_choice",
+      "prompt": "Eine Schusswaffe ist „zugriffsbereit“ im Sinne des Waffengesetzes, ...",
+      "options": [
+        {
+          "key": "a",
+          "text": "wenn sie unmittelbar, also mit wenigen schnellen Handgriffen, in Anschlag gebracht werden kann.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "wenn sie im abgeschlossenen Koffer im Kfz untergebracht ist.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "wenn sie ungeladen in der verschlossenen Schublade liegt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.56",
+      "chapter": "Kapitel I. 12",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 17,
+      "type": "self_assessment",
+      "prompt": "Wann ist eine Waffe „schussbereit“?",
+      "options": [],
+      "answer_text": "Wenn Sie geladen ist, d. h. dass Munition oder Geschosse in der Trommel, im in die Waffe eingefügten Magazin oder im Patronen- oder Geschosslager sind, auch wenn sie nicht gespannt ist."
+    },
+    {
+      "id": "1.57",
+      "chapter": "Kapitel I. 12",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 17,
+      "type": "self_assessment",
+      "prompt": "Wann ist eine Waffe „zugriffsbereit“ (im Sinne des WaffG)?",
+      "options": [],
+      "answer_text": "Wenn sie unmittelbar, also mit wenigen schnellen Handgriffen in Anschlag gebracht werden kann."
+    },
+    {
+      "id": "1.58",
+      "chapter": "Kapitel I. 12",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 17,
+      "type": "multiple_choice",
+      "prompt": "Wann ist eine Schusswaffe im Sinne des Waffengesetzes „schussbereit“?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wenn sie griffbereit, aber ungeladen im Holster getragen wird.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Wenn das Schlagstück / der Schlagbolzen bei entladener Waffe gespannt und entsichert ist.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Wenn sie geladen ist.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.59",
+      "chapter": "Kapitel I. 13",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 18,
+      "type": "multiple_choice",
+      "prompt": "Wann ist eine Waffe „schussbereit“ im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wenn die Waffe geladen und gespannt ist.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Wenn die Waffe geladen, aber entspannt und gesichert ist.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Wenn ein gefülltes Magazin eingeführt ist.",
+          "correct": false
+        },
+        {
+          "key": "d",
+          "text": "Wenn das gefüllte Magazin griffbereit liegt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.60",
+      "chapter": "Kapitel I. 13",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 18,
+      "type": "multiple_choice",
+      "prompt": "Wann ist eine Waffe „schussbereit“ im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wenn sie ungeladen im Holster getragen wird.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Wenn sie in einem verschlossenen Koffer liegt und sich eine Patrone im Patronenlager befindet.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Wenn das Magazin in der Waffe mit Patronen gefüllt ist und die Waffe im unverschlossenen Handschuhfach eines PKW liegt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.61",
+      "chapter": "Kapitel I. 13",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 18,
+      "type": "self_assessment",
+      "prompt": "Was bedeutet „schießen“ im Sinne des Waffengesetzes?",
+      "options": [],
+      "answer_text": "Im Sinne des WaffG schießt jemand, der mit einer Schusswaffe ein Geschoss durch einen Lauf verschießt, Kartuschenmunition abschießt, mit Patronen- oder Kartuschenmunition Reiz- oder andere Wirkstoffe verschießt oder pyrotechnische Munition verschießt."
+    },
+    {
+      "id": "1.62",
+      "chapter": "Kapitel I. 13",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 18,
+      "type": "multiple_choice",
+      "prompt": "Welche Erlaubnis berechtigt zum Schießen mit Schreckschuss-, Reizstoff- und Signalwaffen (mit Zulassungszeichen PTB im Kreis) außerhalb des eigenen befriedeten Besitztums?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kleiner Waffenschein",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "behördliche Schießerlaubnis",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Waffenbesitzkarte",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.63",
+      "chapter": "Kapitel I. 14",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 19,
+      "type": "multiple_choice",
+      "prompt": "Was bedeutet für einen Sportschützen der Rechtsbegriff „Zu einem vom Bedürfnis umfassten Zweck oder im Zusammenhang damit“ in Bezug auf den Transport einer Schusswaffe?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Der Schütze darf die Waffe in der fremden Wohnung mit Einwilligung des Hausrechtsinhabers zu Schutzzwecken führen.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Der Schütze transportiert seine defekte Schusswaffe zur Reparatur zum Büchsenmacher.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Die Schusswaffe wird am Wohnort des Schützen von ihm über mehrere Tage in einem Autotresor im Kofferraum des PKWs transportiert.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.64",
+      "chapter": "Kapitel I. 14",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 19,
+      "type": "multiple_choice",
+      "prompt": "Welche Voraussetzungen müssen gegeben sein, damit der Rechtsbegriff „sportliches Schießen“ erfüllt wird?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sportliches Schießen liegt dann vor, wenn nach festen Regeln einer genehmigten Sportordnung geschossen wird.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Sportliches Schießen liegt dann vor, wenn nach einer nicht genehmigten Sportordnung geschossen wird.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Sportliches Schießen liegt dann vor, wenn man in einer Gruppe Paintball spielt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.65",
+      "chapter": "Kapitel I. 14",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 19,
+      "type": "self_assessment",
+      "prompt": "In welchem zeitlichen Mindestabstand werden die Inhaber waffenrechtlicher Erlaubnisse erneut auf ihre Zuverlässigkeit und ihre persönliche Eignung geprüft?",
+      "options": [],
+      "answer_text": "Mindestens alle drei Jahre."
+    },
+    {
+      "id": "1.66",
+      "chapter": "Kapitel I. 14",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 19,
+      "type": "self_assessment",
+      "prompt": "Welche Voraussetzungen müssen Sie als Antragsteller für die Erteilung einer Waffenbesitzkarte erfüllen?",
+      "options": [],
+      "answer_text": "1. Ich muss ein Bedürfnis nachweisen. 2. Ich muss die persönliche Eignung besitzen. 3. Ich muss die erforderliche Zuverlässigkeit besitzen. 4. Ich muss die erforderliche Sachkunde nachweisen. 5. Ich muss das 18. Lebensjahr vollendet haben.(Beachte: Altersbeschränkungen bei Sportschützen) 6. Nachweise der sicheren Aufbewahrung für Schusswaffen."
+    },
+    {
+      "id": "1.67",
+      "chapter": "Kapitel I. 15",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 20,
+      "type": "multiple_choice",
+      "prompt": "Welche Angaben zu einer Waffe werden in einer Waffenbesitzkarte eintragen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Waffenart, Bezeichnung der Munition oder des Kalibers, Hersteller- / Warenzeichen oder Marke, Modellbezeichnung, Herstellungsnummer und Tag des Überlassens, sowie der Name und die Anschrift des Überlassers.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Waffenart, Kaliber, Hersteller- oder Warenzeichen, Beschusszeichen, Seriennummer und Tag des Überlassens, sowie der Name und die Personalausweisnummer des Überlassers.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Waffenart, Kaliber, Hersteller- oder Warenzeichen, Nummer der Waffenherstellungserlaubnis und Tag des Überlassens, sowie der Name und die Waffenbesitzkartennummer des Überlassers.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.68",
+      "chapter": "Kapitel I. 15",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 20,
+      "type": "multiple_choice",
+      "prompt": "Für die Anerkennung eines Bedürfnisses zum Erwerb und Besitz von Schusswaffen (grüne Waffenbesitzkarte) ist bei Sportschützen die Vorlage einer Bescheinigung des anerkannten Schießsportverbandes erforderlich, dem der Antragsteller durch seine Vereinsmitgliedschaft angehört. Die Bescheinigung muss ausweisen, dass ...",
+      "options": [
+        {
+          "key": "a",
+          "text": "er seit mindestens 12 Monaten den Schießsport in einem Verein regelmäßig als Sportschütze betreibt.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "er seine Sammlung vervollständigen möchte.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "die Waffe für eine Disziplin nach der Sportordnung des Schießsportverbandes zugelassen und erforderlich ist.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.69",
+      "chapter": "Kapitel I. 15",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 20,
+      "type": "multiple_choice",
+      "prompt": "Wann wird in der Regel eine waffenrechtliche Erlaubnis von der Erlaubnisbehörde widerrufen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wenn der Inhaber nicht mehr zuverlässig im Sinne des Waffengesetzes ist.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Wenn der Inhaber kein Bedürfnis mehr nachweisen kann.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Wenn der Inhaber seinen Wohnort in ein anderes Bundesland verlegt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.70",
+      "chapter": "Kapitel I. 15",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 20,
+      "type": "self_assessment",
+      "prompt": "Welche Eintragungen sieht die grüne Waffenbesitzkarte zum Erwerb einer Schusswaffe vor?",
+      "options": [],
+      "answer_text": "Laufende Nummer, Art, Bezeichnung der Munition oder des Kalibers, Dauer der Erwerbsberechtigung und Dienstsiegel."
+    },
+    {
+      "id": "1.71",
+      "chapter": "Kapitel I. 15",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 20,
+      "type": "self_assessment",
+      "prompt": "Wie lange gilt grundsätzlich eine Waffenbesitzkarte?",
+      "options": [],
+      "answer_text": "Unbefristet."
+    },
+    {
+      "id": "1.72",
+      "chapter": "Kapitel I. 16",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 21,
+      "type": "self_assessment",
+      "prompt": "Kann eine Waffenbesitzkarte auch nachträglich mit Auflagen versehen werden?",
+      "options": [],
+      "answer_text": "Ja."
+    },
+    {
+      "id": "1.73",
+      "chapter": "Kapitel I. 16",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 21,
+      "type": "multiple_choice",
+      "prompt": "Kann eine Waffenbesitzkarte auch einem Schützenverein erteilt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, wenn es sich um einen eingetragenen Verein handelt.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nein.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ja, jedem Verein.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.74",
+      "chapter": "Kapitel I. 16",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 21,
+      "type": "multiple_choice",
+      "prompt": "Wie lange gilt üblicherweise ein Voreintrag zum Erwerb einer Schusswaffe in einer grünen Waffenbesitzkarte?",
+      "options": [
+        {
+          "key": "a",
+          "text": "6 Monate",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "1 Jahr",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "unbefristet",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.75",
+      "chapter": "Kapitel I. 16",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 21,
+      "type": "multiple_choice",
+      "prompt": "Wie lange gilt der Kleine Waffenschein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 Jahr",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "3 Jahre",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "unbefristet",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.76",
+      "chapter": "Kapitel I. 16",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 21,
+      "type": "multiple_choice",
+      "prompt": "Für wie lange wird ein Waffenschein höchstens erteilt?",
+      "options": [
+        {
+          "key": "a",
+          "text": "1 Jahr",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "3 Jahre",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "5 Jahre",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.77",
+      "chapter": "Kapitel I. 16",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 21,
+      "type": "self_assessment",
+      "prompt": "Was ist Voraussetzung für den Erwerb von Schreckschuss-, Reizstoff- und Signalwaffen, deren Erwerb und Besitz erlaubnisfrei ist?",
+      "options": [],
+      "answer_text": "Vollendung des 18. Lebensjahres."
+    },
+    {
+      "id": "1.78",
+      "chapter": "Kapitel I. 16",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 21,
+      "type": "multiple_choice",
+      "prompt": "Wie lange müssen Sie mindestens als Mitglied eines schießsportlichen Vereins geschossen haben, um als Sportschütze der Behörde ein Bedürfnis zum Erwerb einer Schusswaffe nachweisen zu können?",
+      "options": [
+        {
+          "key": "a",
+          "text": "mindestens 6 Monate",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "mindestens 12 Monate",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "mindestens 18 Monate",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.79",
+      "chapter": "Kapitel I. 16",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 21,
+      "type": "multiple_choice",
+      "prompt": "Wie alt müssen Sie als Sportschütze mindestens sein, um eine Büchse (.308Win) ohne amts- oder fachärztliches oder fachpsychologisches Zeugnis dauerhaft erwerben zu können?",
+      "options": [
+        {
+          "key": "a",
+          "text": "21 Jahre",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "25 Jahre",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "27 Jahre",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.80",
+      "chapter": "Kapitel I. 17",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 22,
+      "type": "multiple_choice",
+      "prompt": "Welches Lebensjahr müssen Sie vollendet haben, um EinzelladerLangwaffen mit glatten Läufen im Kaliber 12 oder kleiner als Sportschütze dauerhaft erwerben zu dürfen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "18 Jahre",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "21 Jahre",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "25 Jahre",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.81",
+      "chapter": "Kapitel I. 17",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 22,
+      "type": "self_assessment",
+      "prompt": "Welche Voraussetzungen müssen zur Erteilung einer waffenrechtlichen Erlaubnis für einen Revolver .44MAGNUM bei Sportschützen gegeben sein?",
+      "options": [],
+      "answer_text": "1. Vollendung des 21. Lebensjahres 2. Nachweis der Sachkunde 3. Zuverlässigkeit 4. Persönliche Eignung, bei Personen vor Vollendung des 25. Lebensjahres nachgewiesen durch ein amts- oder fachärztlichen oder fachpsychologischen Zeugnis 5. Nachweis eines Bedürfnisses 6. Nachweis der sicheren Aufbewahrung von Schusswaffen"
+    },
+    {
+      "id": "1.82",
+      "chapter": "Kapitel I. 17",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 22,
+      "type": "self_assessment",
+      "prompt": "Das Fortbestehen des Bedürfnisses wird nach erstmaliger Erteilung einer waffenrechtlichen Erlaubnis von der Behörde geprüft. Welche Frist hat der Gesetzgeber hier vorgesehen?",
+      "options": [],
+      "answer_text": "Mindestens alle fünf Jahre"
+    },
+    {
+      "id": "1.83",
+      "chapter": "Kapitel I. 17",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 22,
+      "type": "self_assessment",
+      "prompt": "Das Fortbestehen des Bedürfnisses wird drei Jahre nach der erstmaligen Erteilung einer waffenrechtlichen Erlaubnis von der Behörde geprüft. Ist dies die einzige Prüfung des Fortbestehens des Bedürfnisses?",
+      "options": [],
+      "answer_text": "Nein, das Fortbestehen des Bedürfnisses kann von der zuständigen Behörde auch nach diesem Zeitraum geprüft werden."
+    },
+    {
+      "id": "1.84",
+      "chapter": "Kapitel I. 17",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 22,
+      "type": "self_assessment",
+      "prompt": "Welche weiteren Voraussetzungen müssen Jugendliche, die das 16. Lebensjahr vollendet haben und unter 18 Jahren sind, erfüllen, damit sie mit WBK-pflichtigen Waffen für Randfeuerpatronen bis zu einem Kaliber von 5,6 mm lfB (.22l.r.) und einer maximalen Mündungsenergie von 200 Joule schießen dürfen?",
+      "options": [],
+      "answer_text": "Schriftliches oder elektronisches Einverständnis des Sorgeberechtigten oder dessen/deren Anwesenheit."
+    },
+    {
+      "id": "1.85",
+      "chapter": "Kapitel I. 17",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 22,
+      "type": "self_assessment",
+      "prompt": "Welche weiteren Voraussetzungen müssen erfüllt sein, damit Jugendliche unter 16 Jahren mit WBK-pflichtigen Einzellader-Flinten bis zu dem Kaliber 12 schießen dürfen?",
+      "options": [],
+      "answer_text": "Schriftliches oder elektronisches Einverständnis des Sorgeberechtigten und dessen Anwesenheit oder die Anwesenheit einer verantwortlichen und zur Kinder- und Jugendarbeit für das Schießen geeigneten Aufsichtsperson."
+    },
+    {
+      "id": "1.86",
+      "chapter": "Kapitel I. 18",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 23,
+      "type": "multiple_choice",
+      "prompt": "Was sind „Anscheinswaffen“ im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Schusswaffen, die ihrer äußeren Form nach im Gesamterscheinungsbild den Anschein von Feuerwaffen (Anlage 1 Abschnitt 1 Unterabschnitt 1 Nr. WaffG) hervorrufen und bei denen zum Antrieb der Geschosse keine heißen Gase verwendet werden.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Nachbildungen von Schusswaffen mit dem Aussehen der o.g. Schusswaffen",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "unbrauchbar gemachte Schusswaffen mit dem Aussehen der o.g. Schusswaffen",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.87",
+      "chapter": "Kapitel I. 18",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 23,
+      "type": "multiple_choice",
+      "prompt": "Welcher der genannten Gegenstände ist eine Anscheinswaffe im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sportgewehr .223 Remington, das wie ein Sturmgewehr aussieht ohne Zulassungszeichen",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Schreckschuss-, Reizstoff- und Signalpistole mit Zulassungszeichen „PTB im Kreis“",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Spielzeugpistole, die äußerlich einer echten Pistole im Kaliber 9mm Luger zum Verwechseln ähnlich sieht",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.88",
+      "chapter": "Kapitel I. 18",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 23,
+      "type": "multiple_choice",
+      "prompt": "Welcher der genannten Gegenstände ist eine Anscheinswaffe im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Messer mit einer 14 cm langen, aber nur einseitig geschliffenen Klinge.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nach waffenrechtlichen Vorschriften unbrauchbar gemachtes altes Armeegewehr mit Zulassungszeichen „Ortszeichen in der Raute“.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Stockflinte (als Spazierstock getarnte Flinte, früher angeblich oft von Wilderern benutzt)",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.89",
+      "chapter": "Kapitel I. 18",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 23,
+      "type": "multiple_choice",
+      "prompt": "Welche Ausnahmen vom Verbot des Führens von Anscheinswaffen gibt es?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Anscheinswaffen dürfen an Silvester geführt werden.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Anscheinswaffen dürfen geführt werden, bei der Verwendung bei Foto-, Film oder Fernsehaufnahmen oder bei Theateraufführungen.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Anscheinswaffen dürfen immer verdeckt geführt werden.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "1.90",
+      "chapter": "Kapitel I. 19",
+      "section": "1. Begriffe des Waffenrechts",
+      "page": 24,
+      "type": "multiple_choice",
+      "prompt": "Wann wird eine Schusswaffe im Sinne des Waffengesetzes „bearbeitet“?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Der Schaft eines Gewehres wird auf ein für den Schützen passendes Maß abgefräst.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Die gebrochene Schließfeder einer Pistole wird ausgetauscht.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Der Lauf eines Revolvers wird von einem befreundeten Schlosser auf 4 Zoll verkürzt.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.01",
+      "chapter": "Kapitel I. 20",
+      "section": "2. Rechte und Pflichten",
+      "page": 25,
+      "type": "multiple_choice",
+      "prompt": "Was muss der Erwerbsberechtigte nach dem Kauf einer Schusswaffe von einer Privatperson/Händler veranlassen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Er muss einen lizenzierten Waffenhändler einschalten.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Er muss den Kauf der zuständigen Behörde unter Vorlage des Kaufvertrages mitteilen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Er muss innerhalb von zwei Wochen bei der zuständigen Behörde den Erwerb schriftlich oder elektronisch anzeigen und seine Waffenbesitzkarte zur Eintragung vorlegen.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.02",
+      "chapter": "Kapitel I. 20",
+      "section": "2. Rechte und Pflichten",
+      "page": 25,
+      "type": "multiple_choice",
+      "prompt": "Was muss ein Sportschütze nach dem dauerhaften Erwerb einer Waffe von einem anderen Sportschützen veranlassen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nichts",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Er muss den Erwerb innerhalb von zwei Wochen schriftlich oder elektronisch anzeigen und seine Waffenbesitzkarte bei der zuständigen Behörde vorlegen.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Beide Waffenbesitzkarten sofort der zuständigen Behörde vorlegen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.03",
+      "chapter": "Kapitel I. 20",
+      "section": "2. Rechte und Pflichten",
+      "page": 25,
+      "type": "multiple_choice",
+      "prompt": "Innerhalb welcher Zeit haben Sie den Erwerb, bzw. den Verkauf einer erlaubnispflichtigen Waffe anzuzeigen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "binnen einer Woche",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "binnen zwei Wochen",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "binnen eines Monats",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.04",
+      "chapter": "Kapitel I. 20",
+      "section": "2. Rechte und Pflichten",
+      "page": 25,
+      "type": "multiple_choice",
+      "prompt": "Welcher Sportschütze muss für die erstmalige Erteilung einer Erlaubnis zum Erwerb und Besitz von Schusswaffen ein amts- oder fachärztliches oder fachpsychologisches Zeugnis über seine geistige Eignung vorlegen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ein 18-jähriger, der ein Kleinkalibergewehr erwerben möchte.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ein 19-jähriger, der eine Doppelflinte im Kaliber 12/70 erwerben möchte.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ein 22-jähriger, der einen großkalibrigen Revolver erwerben möchte.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.05",
+      "chapter": "Kapitel I. 20",
+      "section": "2. Rechte und Pflichten",
+      "page": 25,
+      "type": "multiple_choice",
+      "prompt": "Welche Erlaubnispapiere berechtigen auch zum Erwerb von EinzelladerLangwaffen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Waffenschein",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Jagdschein",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Europäischer Feuerwaffenpass",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.06",
+      "chapter": "Kapitel I. 21",
+      "section": "2. Rechte und Pflichten",
+      "page": 26,
+      "type": "multiple_choice",
+      "prompt": "Welche Erlaubnispapiere berechtigen auch zum Erwerb von EinzelladerLangwaffen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sportschützen-WBK (gelbe WBK) (ohne Voreintrag)",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "allgemeine WBK -grün(ohne Voreintrag)",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Waffenhandelserlaubnis (uneingeschränkt)",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.07",
+      "chapter": "Kapitel I. 21",
+      "section": "2. Rechte und Pflichten",
+      "page": 26,
+      "type": "multiple_choice",
+      "prompt": "Was ist eine Erwerbsberechtigung für eine einläufige Einzellader-Kurzwaffe (Kleinkaliber-Sportpistole)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Waffenschein",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Waffenbesitzkarte für Sportschützen (gelbe WBK)",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Waffenerwerbsschein",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.08",
+      "chapter": "Kapitel I. 21",
+      "section": "2. Rechte und Pflichten",
+      "page": 26,
+      "type": "multiple_choice",
+      "prompt": "Welche Erlaubnis ist zum Erwerb einer halbautomatischen Pistole .32 S&W erforderlich?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Waffenschein",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Sportschützen-WBK (gelbe WBK) (ohne Voreintrag)",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Waffenbesitzkarte mit Erwerbsberechtigung (Voreintrag)",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.09",
+      "chapter": "Kapitel I. 21",
+      "section": "2. Rechte und Pflichten",
+      "page": 26,
+      "type": "multiple_choice",
+      "prompt": "Beim Erwerb einer erlaubnispflichtigen Schusswaffe von einer Privatperson durch den Erwerbsberechtigten ist ...",
+      "options": [
+        {
+          "key": "a",
+          "text": "der Erwerb der Waffe innerhalb eines Jahres der zuständigen Behörde anzuzeigen und die WBK zur Eintragung vorzulegen.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "der Erwerb der Waffe innerhalb von vier Wochen der zuständigen Behörde anzuzeigen und die WBK zur Eintragung vorzulegen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "der Erwerb der Waffe innerhalb von zwei Wochen der zuständigen Behörde anzuzeigen und die WBK zur Eintragung vorzulegen.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.10",
+      "chapter": "Kapitel I. 21",
+      "section": "2. Rechte und Pflichten",
+      "page": 26,
+      "type": "multiple_choice",
+      "prompt": "Bei Abhandenkommen der Waffenbesitzkarte ist zu benachrichtigen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Erlaubnisbehörde",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Deutscher Schützenbund",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Bundeszentralregister",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.11",
+      "chapter": "Kapitel I. 22",
+      "section": "2. Rechte und Pflichten",
+      "page": 27,
+      "type": "multiple_choice",
+      "prompt": "Was ist zu tun, wenn erlaubnispflichtige Waffen oder Munition abhandenkommen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Unverzüglich den Verlust der zuständigen Waffenbehörde melden.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Innerhalb eines Monats den Verlust der zuständigen Behörde melden.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Eine Verlustanzeige bei der zuständigen Polizeidienststelle aufgeben.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.12",
+      "chapter": "Kapitel I. 22",
+      "section": "2. Rechte und Pflichten",
+      "page": 27,
+      "type": "multiple_choice",
+      "prompt": "Was ist zu tun, wenn Erlaubnisurkunden abhandenkommen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Das Abhandenkommen ist unverzüglich der zuständigen Behörde anzuzeigen.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Eine Ersatzausfertigung ist zu beantragen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Solange das Dokument nicht genutzt wird ist nichts weiter zu veranlassen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.13",
+      "chapter": "Kapitel I. 22",
+      "section": "2. Rechte und Pflichten",
+      "page": 27,
+      "type": "multiple_choice",
+      "prompt": "Was ist nach Verlust einer erlaubnispflichtigen Schusswaffe oder einer Waffenbesitzkarte zu veranlassen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Der Verlust ist unverzüglich der zuständigen Behörde mitzuteilen.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Die Versicherung ist umgehend in Kenntnis zu setzen, damit diese die Polizei verständigen und alle weiteren Maßnahmen einleiten kann.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Sämtliche denkbaren Maßnahmen zur Wiedererlangung der Schusswaffe und der WBK sind einzuleiten.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.14",
+      "chapter": "Kapitel I. 22",
+      "section": "2. Rechte und Pflichten",
+      "page": 27,
+      "type": "multiple_choice",
+      "prompt": "Sind Sie bezüglich Ihrer Schusswaffen der zuständigen Behörde gegenüber in begründeten Fällen auskunftspflichtig?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nein, nur wenn gegen mich ein Verfahren eingeleitet wurde.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nein, nur bei Fragen zur Aufbewahrung.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.15",
+      "chapter": "Kapitel I. 22",
+      "section": "2. Rechte und Pflichten",
+      "page": 27,
+      "type": "multiple_choice",
+      "prompt": "Kann die zuständige Behörde die Vorlage von erlaubnispflichtigen Schusswaffen, Munition und Erlaubnisscheinen zur Prüfung verlangen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nein, solange Waffenbesitzkarte und Munitionserwerbschein gültig sind.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, nur im Rahmen eines Strafverfahrens.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ja, aus begründetem Anlass.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.16",
+      "chapter": "Kapitel I. 23",
+      "section": "2. Rechte und Pflichten",
+      "page": 28,
+      "type": "multiple_choice",
+      "prompt": "Für welche Inhaber waffenrechtlicher Erlaubnisse ist das Bundesverwaltungsamt sachlich unter anderem zuständig?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Für Deutsche im Sinne des Artikels 116 des Grundgesetzes, die ihren gewöhnlichen Aufenthalt im Ausland haben (Auslandsdeutsche).",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Für ausländische Staatsangehörige innerhalb der Bunderepublik Deutschland.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Im Rahmen der Sportförderung für Profisportler (Sportschützen).",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.17",
+      "chapter": "Kapitel I. 23",
+      "section": "2. Rechte und Pflichten",
+      "page": 28,
+      "type": "multiple_choice",
+      "prompt": "Welche Teile einer erlaubnispflichtigen Schusswaffe darf jeder erwerben?",
+      "options": [
+        {
+          "key": "a",
+          "text": "einen Austauschlauf",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "ein Wechselsystem",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "ein Abzugssystem",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.18",
+      "chapter": "Kapitel I. 23",
+      "section": "2. Rechte und Pflichten",
+      "page": 28,
+      "type": "multiple_choice",
+      "prompt": "Ist Sportschützen der Erwerb und die anschließende Nutzung von Kurzwaffenmagazinen mit einer Kapazität von mehr als 20 Patronen und Langwaffenmagazinen mit einer Kapazität von mehr als 10 Patronen gestattet (wechselbares Magazin)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, wenn damit nachweislich dynamische Disziplinen (IPSC) absolviert werden.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, allerdings nur zu Trainingszwecken und nicht im Rahmen von Wettkämpfen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nein, da solche Magazine für Privatpersonen verboten sind.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.19",
+      "chapter": "Kapitel I. 23",
+      "section": "2. Rechte und Pflichten",
+      "page": 28,
+      "type": "multiple_choice",
+      "prompt": "Welche Waffe kann nur mit einer grünen Waffenbesitzkarte (mit Voreintrag) erworben werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Druckluftwaffe mit dem Zeichen „F im Fünfeck“",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Armbrust",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Kurzwaffe mit Kaliber .357 SIG",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.20",
+      "chapter": "Kapitel I. 23",
+      "section": "2. Rechte und Pflichten",
+      "page": 28,
+      "type": "multiple_choice",
+      "prompt": "Welcher Nachweis ist als Erwerbsberechtigung von halbautomatischen Kurzwaffen für Sportschützen erforderlich?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Waffenbesitzkarte mit Voreintrag",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Schießbuch",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Sportschützenausweis",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.21",
+      "chapter": "Kapitel I. 24",
+      "section": "2. Rechte und Pflichten",
+      "page": 29,
+      "type": "self_assessment",
+      "prompt": "Welche Teile erlaubnispflichtiger Schusswaffen dürfen einzeln nur mit gültiger Erwerbserlaubnis erworben werden?",
+      "options": [],
+      "answer_text": "- Lauf - Verschluss - Patronen- oder Kartuschenlager - Griffstück bei Kurzwaffen"
+    },
+    {
+      "id": "2.22",
+      "chapter": "Kapitel I. 24",
+      "section": "2. Rechte und Pflichten",
+      "page": 29,
+      "type": "multiple_choice",
+      "prompt": "Für Erwerb und Besitz welcher Waffen bedarf es keiner Waffenbesitzkarte?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Druckluftwaffen, die das Zulassungszeichen „F im Fünfeck“ tragen.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Schreckschuss-, Reizstoff- und Signalwaffen, die das Zulassungszeichen „PTB im Kreis“ tragen.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Spielzeugwaffen mit einer Mündungsenergie von mehr als 0,5 Joule (ohne „F im Fünfeck“).",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.23",
+      "chapter": "Kapitel I. 24",
+      "section": "2. Rechte und Pflichten",
+      "page": 29,
+      "type": "multiple_choice",
+      "prompt": "Wie können Sie als 19-jähriger Sportschütze Ihre persönliche Eignung für den dauerhaften Erwerb einer halbautomatischen Pistole im Kaliber „.45 Auto“ gegenüber der Behörde nachweisen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Durch ein fachärztliches Gutachten.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Durch eine Bescheinigung eines anerkannten Schießsportverbandes.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Es besteht keine Möglichkeit des Erwerbs in diesem Alter.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.24",
+      "chapter": "Kapitel I. 24",
+      "section": "2. Rechte und Pflichten",
+      "page": 29,
+      "type": "multiple_choice",
+      "prompt": "Wer benötigt als Sportschütze ein amts- oder fachärztliches oder fachpsychologisches Gutachten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sportschützen, die das 25. Lebensjahr noch nicht vollendet haben und erstmalig eine erlaubnis- und bedürfnispflichtige Großkaliberwaffe erwerben wollen.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Sportschützen, die das 25. Lebensjahr noch nicht vollendet haben und erstmalig eine Einzellader-Flinten bis Kaliber 12 erwerben wollen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Sportschützen, die das 25. Lebensjahr noch nicht vollendet haben und erstmalig eine Schusswaffe bis Kaliber .22lr (mit Randzündung) erwerben wollen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.25",
+      "chapter": "Kapitel I. 25",
+      "section": "2. Rechte und Pflichten",
+      "page": 30,
+      "type": "multiple_choice",
+      "prompt": "Welche Schusswaffen dürfen Sie als 20-jähriger Sportschütze ohne vorheriges Gutachten über Ihre persönliche Eignung dauerhaft erwerben?",
+      "options": [
+        {
+          "key": "a",
+          "text": "halbautomatische Pistole im Kaliber 9 mm Luger",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Double-Action-Revolver im Kaliber .357 Magnum",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Bockflinte im Kaliber 12/70",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.26",
+      "chapter": "Kapitel I. 25",
+      "section": "2. Rechte und Pflichten",
+      "page": 30,
+      "type": "self_assessment",
+      "prompt": "Sie wollen ein Kleinkaliber-Repetiergewehr verkaufen. Es interessieren sich 1. ein Jäger, 2. ein Sportschütze. In welcher Form ist der Nachweis der Erwerbsberechtigung in den genannten Fällen zu erbringen?",
+      "options": [],
+      "answer_text": "Zu 1: gültiger Jagdschein Zu 2: Waffenbesitzkarte für Sportschützen oder grüne Waffenbesitzkarte mit Voreintrag"
+    },
+    {
+      "id": "2.27",
+      "chapter": "Kapitel I. 25",
+      "section": "2. Rechte und Pflichten",
+      "page": 30,
+      "type": "multiple_choice",
+      "prompt": "Welche der nebenstehend aufgeführten Schusswaffen kann mit der Waffenbesitzkarte für Sportschützen (gelbe WBK) erworben werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "halbautomatische Langwaffe",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "einläufige Einzellader-Kurzwaffe",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "halbautomatische Kurzwaffe",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.28",
+      "chapter": "Kapitel I. 25",
+      "section": "2. Rechte und Pflichten",
+      "page": 30,
+      "type": "multiple_choice",
+      "prompt": "Darf ein Sportschütze seine Repetierbüchse im Kaliber .22lr mit einem Schalldämpfer ausstatten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nein, Schalldämpfer sind im Bereich des sportlichen Schießens nur für Waffen bei denen Zentralfeuermunition genutzt wird gestattet.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, Waffen die Munition mit Randfeuerzündung verschießen dürfen immer mit einem Schalldämpfer ausgestattet werden.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nein, ein Sportschütze darf für keine seiner Waffen einen Schalldämpfer nutzen.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.29",
+      "chapter": "Kapitel I. 25",
+      "section": "2. Rechte und Pflichten",
+      "page": 30,
+      "type": "multiple_choice",
+      "prompt": "Wie viele halbautomatische Büchsen darf ein Sportschütze maximal mit seiner gelben Waffenbesitzkarte er-werben bzw. diese darin eintragen lassen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Keine",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Bis zu zehn",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Hier gibt es keine Einschränkungen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.30",
+      "chapter": "Kapitel I. 26",
+      "section": "2. Rechte und Pflichten",
+      "page": 31,
+      "type": "multiple_choice",
+      "prompt": "Wie viele Waffen darf ein Sportschütze maximal mit seiner gelben Waffenbesitzkarte erwerben bzw. diese darin eintragen lassen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bis zu zehn Waffen, die gemäß den gesetzlichen Vorgaben mit der gelben Waffenbesitzkarte erworben werden dürfen.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Unbegrenzte Anzahl, jedoch nur wenn jeweils eine Bedürfnisbescheinigung des Verbandes vorliegt.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Unbegrenzte Anzahl, jedoch dürfen keine halbautomatischen Pistolen damit erworben bzw. darin eingetragen werden.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.31",
+      "chapter": "Kapitel I. 26",
+      "section": "2. Rechte und Pflichten",
+      "page": 31,
+      "type": "multiple_choice",
+      "prompt": "Wie viele Schusswaffen dürfen Sie als Sportschütze maximal innerhalb von sechs Monaten bei entsprechendem Bedürfnis erwerben?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Zwei",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Eine",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Drei",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.32",
+      "chapter": "Kapitel I. 26",
+      "section": "2. Rechte und Pflichten",
+      "page": 31,
+      "type": "multiple_choice",
+      "prompt": "Dürfen Schalldämpfer für erlaubnispflichtige Schusswaffen erworben werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, für alle in der grünen WBK eingetragenen Waffen.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nein",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ja, jedoch unterliegen Schalldämpfer für erlaubnispflichtige Schusswaffen ebenfalls der Erlaubnispflicht.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.33",
+      "chapter": "Kapitel I. 26",
+      "section": "2. Rechte und Pflichten",
+      "page": 31,
+      "type": "multiple_choice",
+      "prompt": "Welche Druckluftwaffen dürfen erlaubnisfrei erworben werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Alle Druckluftwaffen, deren Geschossen eine Bewegungsenergie von weniger als 7,5 Joule erteilt wird.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Alle Druckluftwaffen, die vor dem 01.01.1970 hergestellt und in den Handel gebracht wurden.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Alle Druckluftwaffen mit dem Zulassungszeichen „F im Fünfeck“.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.34",
+      "chapter": "Kapitel I. 27",
+      "section": "2. Rechte und Pflichten",
+      "page": 32,
+      "type": "multiple_choice",
+      "prompt": "Welche der folgendermaßen gekennzeichneten Waffen dürfen Sie grundsätzlich als volljährige Person erlaubnisfrei erwerben?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Der Aufdruck „Frei ab 18 Jahren“ ist auf allen wesentlichen Teilen der Waffe eingeprägt.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Auf der Waffe befindet sich das Zulassungszeichen (PTB im Kreis) oder das Zulassungszeichen (F im Fünfeck).",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Auf der Waffe befinden sich die Zulassungszeichen „PTB im Viereck“ und das Zulassungszeichen (F im Fünfeck).",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.35",
+      "chapter": "Kapitel I. 27",
+      "section": "2. Rechte und Pflichten",
+      "page": 32,
+      "type": "multiple_choice",
+      "prompt": "Braucht ein Volljähriger für den Erwerb von Druckluft-, Federdruck- oder CO2-Waffen eine Erwerbsberechtigung?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, in jedem Fall.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, wenn die Waffe mit „F im Fünfeck“ gekennzeichnet ist.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nein, wenn die Waffe mit „F im Fünfeck“ gekennzeichnet ist.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.36",
+      "chapter": "Kapitel I. 27",
+      "section": "2. Rechte und Pflichten",
+      "page": 32,
+      "type": "multiple_choice",
+      "prompt": "Sie haben in ihrer WBK einen Voreintrag für einen Revolver im Kaliber .38 Spezial. Ihr Waffenhändler bietet Ihnen zu einem sehr günstigen Preis ein Sondermodell im Kaliber .357 Mag. an. Dürfen Sie diesen erwerben?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, der Durchmesser (das Kaliber) ist ja gleich.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nein, die Magnum-Patrone ist länger.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nein, weil Sie keinen entsprechenden Voreintrag haben.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.37",
+      "chapter": "Kapitel I. 27",
+      "section": "2. Rechte und Pflichten",
+      "page": 32,
+      "type": "multiple_choice",
+      "prompt": "An wen dürfen erlaubnispflichtige Pistolen verkauft werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Reservisten der Bundeswehr",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Polizeibeamte",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Personen mit Erwerbsberechtigung",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.38",
+      "chapter": "Kapitel I. 28",
+      "section": "2. Rechte und Pflichten",
+      "page": 33,
+      "type": "multiple_choice",
+      "prompt": "Wer benötigt keine Waffenbesitzkarte?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Derjenige, der eine Druckluftwaffe, deren Geschosse eine Bewegungsenergie von nicht mehr als 7,5 Joule erteilt wurde und die mit dem Zulassungszeichen „F im Fünfeck“ gekennzeichnet ist, erwirbt.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Derjenige, der eine Schreckschuss-, Reizstoff- oder Signalwaffe mit dem Zulassungszeichen „PTB im Kreis“ erwirbt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Derjenige, der eine Zündnadel-Pistole erwirbt, deren Modell vor dem 01.01.1871 hergestellt worden ist.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.39",
+      "chapter": "Kapitel I. 28",
+      "section": "2. Rechte und Pflichten",
+      "page": 33,
+      "type": "multiple_choice",
+      "prompt": "Wer benötigt keine eigene Waffenbesitzkarte?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Derjenige, der eine erlaubnispflichtige Schusswaffe nur vorübergehend auf einem Schießstand zum dortigen Schießen erwirbt.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Derjenige, der eine erlaubnispflichtige Schusswaffe nur vorübergehend für einen Zeitraum von weniger als einem Monat von einem Berechtigten leiht.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Derjenige, der eine erlaubnispflichtige Schusswaffe nur vorübergehend von einem Berechtigten zur gewerbsmäßigen Beförderung, bzw. Lagerung übernimmt.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.40",
+      "chapter": "Kapitel I. 28",
+      "section": "2. Rechte und Pflichten",
+      "page": 33,
+      "type": "multiple_choice",
+      "prompt": "Welches Dokument berechtigt auch zum Erwerb von Munition?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Europäischer Feuerwaffenpass",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Jagdschein (nur für Langwaffenmunition)",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Polizeidienstausweis",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.41",
+      "chapter": "Kapitel I. 29",
+      "section": "2. Rechte und Pflichten",
+      "page": 34,
+      "type": "multiple_choice",
+      "prompt": "Welche Erlaubnisse berechtigen zum Erwerb von Munition?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Waffenbesitzkarte, sofern eine Munitionserwerbsberechtigung eingetragen ist.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Gültiger Jagdschein (Langwaffenmunition)",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Munitionserwerbsschein",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.42",
+      "chapter": "Kapitel I. 29",
+      "section": "2. Rechte und Pflichten",
+      "page": 34,
+      "type": "multiple_choice",
+      "prompt": "Berechtigt die grüne Waffenbesitzkarte zum Munitionserwerb?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, wenn ich Sportschütze bin.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nur, soweit für die eingetragenen Waffen die Erlaubnis zum Munitionserwerb in der WBK vermerkt ist.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nein, es ist immer zusätzlich ein Munitionserwerbsschein erforderlich.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.43",
+      "chapter": "Kapitel I. 29",
+      "section": "2. Rechte und Pflichten",
+      "page": 34,
+      "type": "multiple_choice",
+      "prompt": "Mit welcher Erlaubnis kann Munition erworben werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sportschützenausweis",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Sportschützen-WBK (gelbe WBK)",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Sprengstofferlaubnis",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.44",
+      "chapter": "Kapitel I. 29",
+      "section": "2. Rechte und Pflichten",
+      "page": 34,
+      "type": "multiple_choice",
+      "prompt": "Eine Munitionserwerbsberechtigung für Patronen im Kaliber .357 Magnum berechtigt zum Erwerb von Munition...",
+      "options": [
+        {
+          "key": "a",
+          "text": "auch im Kaliber .38 Special.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "nur im Kaliber .357 Magnum.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "auch im Kaliber 9 mm Luger.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.45",
+      "chapter": "Kapitel I. 29",
+      "section": "2. Rechte und Pflichten",
+      "page": 34,
+      "type": "multiple_choice",
+      "prompt": "Ihre WBK lässt den Erwerb von Munition im Kaliber .357 Magnum zu. Dürfen Sie damit auch Munition 9 mm Luger erwerben?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, weil der Durchmesser nur einen minimalen Unterschied aufweist.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nein",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Ja, aber ich muss später die Behörde informieren.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.46",
+      "chapter": "Kapitel I. 29",
+      "section": "2. Rechte und Pflichten",
+      "page": 34,
+      "type": "multiple_choice",
+      "prompt": "Ihre WBK lässt den Erwerb von Munition im Kaliber 9 mm Luger zu. Dürfen Sie dann auch Munition im Kaliber 9 mm kurz erwerben?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, der Kaliberdurchmesser ist ja identisch.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nur, wenn der Händler mir die Munition überlässt.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nein, nur Patronen im Kaliber 9 mm Luger.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.47",
+      "chapter": "Kapitel I. 30",
+      "section": "2. Rechte und Pflichten",
+      "page": 35,
+      "type": "multiple_choice",
+      "prompt": "Für welche Patronenmunition erhält der Pistolenschütze eine Erlaubnis?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Für Munition mit Hohlspitzgeschossen",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Für Leuchtspurmunition",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Für Betäubungsmunition zu Angriffszwecken",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.48",
+      "chapter": "Kapitel I. 30",
+      "section": "2. Rechte und Pflichten",
+      "page": 35,
+      "type": "multiple_choice",
+      "prompt": "Ist der Erwerb von Presslingen erlaubnispflichtig?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, Sprengstofferlaubnis erforderlich",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, Munitionserwerbsberechtigung erforderlich",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nein",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.49",
+      "chapter": "Kapitel I. 30",
+      "section": "2. Rechte und Pflichten",
+      "page": 35,
+      "type": "multiple_choice",
+      "prompt": "Darf man Schrotmunition in unbeschränkter Menge erwerben?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, auf dem Schießstand zum sofortigen Verbrauch lediglich auf dieser Schießstätte.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Ja, mit Erwerbsberechtigung",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nein",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.50",
+      "chapter": "Kapitel I. 30",
+      "section": "2. Rechte und Pflichten",
+      "page": 35,
+      "type": "multiple_choice",
+      "prompt": "Sie überlassen Ihre WBK-pflichtigen Schusswaffen Ihrem Vereinskollegen für die Dauer von 2 Monaten. Er will die Waffen ausprobieren und Ihnen gegebenenfalls abkaufen.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Das ist waffenrechtlich erlaubt.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Das ist waffenrechtlich nicht erlaubt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "WBK-Inhaber dürfen ihre Schusswaffen grundsätzlich immer tauschen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.51",
+      "chapter": "Kapitel I. 30",
+      "section": "2. Rechte und Pflichten",
+      "page": 35,
+      "type": "multiple_choice",
+      "prompt": "Sie überlassen einem Berechtigten auf Dauer Ihr Großkaliber-Sportgewehr. Innerhalb welcher Frist müssen Sie Ihrer Behörde das Überlassen anzeigen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "2 Wochen",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "4 Wochen",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "1 Woche",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.52",
+      "chapter": "Kapitel I. 30",
+      "section": "2. Rechte und Pflichten",
+      "page": 35,
+      "type": "multiple_choice",
+      "prompt": "Darf man einem anderen Waffenbesitzkarteninhaber eine Waffe leihen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, für einen von seinem Bedürfnis umfassten Zweck, aber nur vorübergehend, höchstens für einen Monat.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Ja, ohne Zweckbindung, aber nur vorübergehend, für die Dauer von maximal einen Monat.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nein, es ist grundsätzlich eine behördliche Genehmigung erforderlich.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.53",
+      "chapter": "Kapitel I. 31",
+      "section": "2. Rechte und Pflichten",
+      "page": 36,
+      "type": "multiple_choice",
+      "prompt": "Unter welchen Voraussetzungen darf Ihnen ein Waffenhändler eine erlaubnispflichtige Schusswaffe zum Ausprobieren ohne vorherige Erlaubnis der zuständigen Behörde überlassen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Überhaupt nicht. Ohne vorherige Erlaubnis ist das immer verboten.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Das ist waffenrechtlich für die Dauer von bis zu sechs Wochen ohne weitere Voraussetzung erlaubt.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Das ist nur erlaubt, wenn man bereits eine WBK besitzt und der Erwerb vorübergehend ist (höchstens einen Monat).",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.54",
+      "chapter": "Kapitel I. 31",
+      "section": "2. Rechte und Pflichten",
+      "page": 36,
+      "type": "multiple_choice",
+      "prompt": "Was hat der Erbe einer Schusswaffe zu veranlassen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Benachrichtigung des Nachlassgerichts",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Änderung der WBK des Verstorbenen",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Beantragung einer WBK bei der zuständigen Waffenbehörde binnen eines Monats nach Annahme der Erbschaft",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.55",
+      "chapter": "Kapitel I. 31",
+      "section": "2. Rechte und Pflichten",
+      "page": 36,
+      "type": "multiple_choice",
+      "prompt": "Was muss ein gesetzlicher Erbe einer Schusswaffe tun?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Innerhalb eines Monats nach Annahme der Erbschaft die Ausstellung einer WBK beantragen, sofern die Schusswaffe nicht vorher einem Berechtigten überlassen oder unbrauchbar gemacht wird.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Änderung der WBK des Verstorbenen beantragen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ein Erbe ohne waffenrechtliches Bedürfnis muss die geerbte Waffe blockieren lassen, soweit ein geeignetes Blockiersystem verfügbar ist.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.56",
+      "chapter": "Kapitel I. 32",
+      "section": "2. Rechte und Pflichten",
+      "page": 37,
+      "type": "multiple_choice",
+      "prompt": "Sie wollen eine Waffe mit einem anderen Berechtigten dauerhaft tauschen, was müssen Sie berücksichtigen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ein Waffentausch ist gesetzlich nicht vorgesehen, jeder muss für die angestrebte Waffe erwerbsberechtigt sein und den Erwerb, sowie das Überlassen der anderen Waffe seiner zuständigen Behörde fristgerecht melden.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Ein Waffentausch ist nur dann waffenrechtlich zulässig, wenn die Waffenart und das Kaliber gleich bleiben Anschließend ist die zuständige Behörde binnen von 14 Tagen zu informieren.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ein Waffentausch darf nur zwischen den Inhabern zweier gleichartiger Erlaubnisse im Rahmen des von ihrem Bedürfnis umfassten Zweckes erfolgen (z.B. nur zwei Sportschützen).",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.57",
+      "chapter": "Kapitel I. 32",
+      "section": "2. Rechte und Pflichten",
+      "page": 37,
+      "type": "multiple_choice",
+      "prompt": "Welcher Sportschütze muss sich einer amts- oder fachärztlichen oder fachpsychologischen Untersuchung unterziehen, um seine persönliche Eignung zum Waffenerwerb nachzuweisen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "18-jähriger Sportschütze für eine Kleinkaliberpistole (KK-Pistole)",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "21-jähriger Sportschütze für ein Kleinkalibergewehr (KK-Gewehr)",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "24-jähriger Sportschütze für eine als erste Großkaliberwaffe zu erwerbende halbautomatische Pistole im Kaliber .45 ACP",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.58",
+      "chapter": "Kapitel I. 32",
+      "section": "2. Rechte und Pflichten",
+      "page": 37,
+      "type": "multiple_choice",
+      "prompt": "Für den Erwerb welcher Schusswaffe bedarf es einer Waffenbesitzkarte?",
+      "options": [
+        {
+          "key": "a",
+          "text": "mehrschüssiger Vorderlader-Revolver",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "CO2-Pistole mit Zeichen",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Gaspistole mit Zulassungszeichen",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.59",
+      "chapter": "Kapitel I. 33",
+      "section": "2. Rechte und Pflichten",
+      "page": 38,
+      "type": "multiple_choice",
+      "prompt": "Für den Erwerb welcher der nachfolgend genannten Waffen bedarf es einer Waffenbesitzkarte?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Druckluftgewehre ohne Zulassungszeichen „F im Fünfeck“, die nach dem 01.01.1970 hergestellt wurden (ausgenommen DDR-Produktion).",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Perkussionsrevolver, deren Modell vor dem 01.01.1871 entwickelt wurde.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Waffen in 4 mm M20 mit den Zulassungszeichen „F im Fünfeck“ und „PTB im Viereck“.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.60",
+      "chapter": "Kapitel I. 33",
+      "section": "2. Rechte und Pflichten",
+      "page": 38,
+      "type": "multiple_choice",
+      "prompt": "Schusswaffen können vorübergehend überlassen werden:",
+      "options": [
+        {
+          "key": "a",
+          "text": "dem Inhaber einer WBK.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "einer Person des persönlichen Vertrauens.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "einer Person mit bestandener Sachkundeprüfung.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.61",
+      "chapter": "Kapitel I. 33",
+      "section": "2. Rechte und Pflichten",
+      "page": 38,
+      "type": "multiple_choice",
+      "prompt": "Wem darf auf einer Schießstätte eine Kleinkaliber-Pistole überlassen werden, wenn eine für die Jugendarbeit geeignete Aufsichtsperson zur Verfügung steht?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Einem 12-jährigen, wenn eine schriftliche oder elektronische Einverständniserklärung des Sorgeberechtigten vorliegt.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Einem 14-jährigen, wenn eine schriftliche oder elektronische Einverständniserklärung des Sorgeberechtigten vorliegt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Einem 14-jährigen, aber nur wenn er Mitglied der Schützenjugend ist.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.62",
+      "chapter": "Kapitel I. 33",
+      "section": "2. Rechte und Pflichten",
+      "page": 38,
+      "type": "multiple_choice",
+      "prompt": "Wem dürfen Sie während Ihres 3-wöchigen Urlaubs ihre erlaubnispflichtigen Schusswaffen zur Aufbewahrung überlassen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "befreundeten Polizeibeamten",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Inhabern einer Waffenbesitzkarte",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "besonders vertrauenswürdigen Personen (z.B. Notar, Pfarrer)",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.63",
+      "chapter": "Kapitel I. 34",
+      "section": "2. Rechte und Pflichten",
+      "page": 39,
+      "type": "multiple_choice",
+      "prompt": "Wer benötigt keinen Waffenschein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Derjenige, der eine erlaubnispflichtige Kurzwaffe als Bewachungsunternehmer im Rahmen seiner Tätigkeit führt.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Derjenige, der eine erlaubnispflichtige Kurzwaffe während einer traditionellen Brauchtumsveranstaltung (z.B. Schützenaufmarsch) führt.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Derjenige, der als Inhaber eines gültigen Jagdscheins eine erlaubnispflichtige Kurzwaffe während der berechtigten Jagdausübung führt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.64",
+      "chapter": "Kapitel I. 34",
+      "section": "2. Rechte und Pflichten",
+      "page": 39,
+      "type": "multiple_choice",
+      "prompt": "Was darf der Inhaber eines Kleinen Waffenscheins?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Schreckschuss-, Reizstoff- und Signalwaffen mit dem Zulassungszeichen „PTB im Kreis“ in der Öffentlichkeit (ausgenommen öffentliche Veranstaltungen) führen.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Druckluft- und CO2-Waffen mit dem Zulassungszeichen „F im Fünfeck“ in der Öffentlichkeit (ausgenommen öffentliche Veranstaltungen) führen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Erlaubnispflichtige Schusswaffen lediglich vorübergehend, höchstens aber für einen Monat von einem Berechtigen zur sicheren Lagerung übernehmen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.65",
+      "chapter": "Kapitel I. 35",
+      "section": "2. Rechte und Pflichten",
+      "page": 40,
+      "type": "multiple_choice",
+      "prompt": "Wozu berechtigt der Kleine Waffenschein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Zum Erwerb von Schreckschuss-, Reizstoff- und Signalwaffen, sofern diese das Zulassungszeichen „PTB im Kreis“ tragen.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Zum Besitz von Schreckschuss-, Reizstoff- und Signalwaffen, sofern diese das Zulassungszeichen „PTB im Kreis“ tragen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Zum Führen von Schreckschuss-, Reizstoff- und Signalwaffen, sofern diese das Zulassungszeichen „PTB im Kreis“ tragen.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.66",
+      "chapter": "Kapitel I. 35",
+      "section": "2. Rechte und Pflichten",
+      "page": 40,
+      "type": "multiple_choice",
+      "prompt": "Welche Erlaubnisse berechtigen zum zugriffsbereiten Führen außerhalb der eigenen Wohnung, der eigenen Geschäftsräume und des eigenen befriedeten Besitztums einer Druckluftwaffe (mit Zulassungszeichen „F im Fünfeck“)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kleiner Waffenschein in Verbindung mit einem gültigen Ausweis",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Waffenbesitzkarte in Verbindung mit Sportschützenausweis",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Waffenschein oder behördliche Ausnahmegenehmigung",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.67",
+      "chapter": "Kapitel I. 35",
+      "section": "2. Rechte und Pflichten",
+      "page": 40,
+      "type": "multiple_choice",
+      "prompt": "Welche Gegenstände dürfen grundsätzlich nicht in der Öffentlichkeit geführt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Anscheinswaffen (originalgetreue Imitate von Feuerwaffen)",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Schweizer Taschenmesser und Gurtschneider",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Feststehende Messer mit einer Klingenlänge über 12 cm und Einhandmesser",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.68",
+      "chapter": "Kapitel I. 35",
+      "section": "2. Rechte und Pflichten",
+      "page": 40,
+      "type": "multiple_choice",
+      "prompt": "Unter welchen Voraussetzungen dürfen Hieb- und Stoßwaffen, feststehende Messer mit einer Klingenlänge über 12 cm und Einhandmesser ausnahmsweise in der Öffentlichkeit geführt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Für den Fall, dass man sich irgendwann einmal selbst verteidigen muss.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Beim Transport in einem verschlossenen Behältnis.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Sofern ein berechtigtes Interesse am Führen vorliegt (z. B. im Zusammenhang mit der Berufsausübung, der Brauchtumspflege, dem Sport oder einem allgemein anerkannten Zweck).",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.69",
+      "chapter": "Kapitel I. 36",
+      "section": "2. Rechte und Pflichten",
+      "page": 41,
+      "type": "multiple_choice",
+      "prompt": "Wer benötigt einen Waffenschein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wer eine erlaubnispflichtige Schusswaffe besitzt.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Wer als Berechtigter mehr als drei Waffen zum Schießstand transportieren will.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Wer eine Schusswaffe außerhalb der eigenen Wohnung, Geschäftsräume, des befriedeten Besitztums oder der Schießstätte zugriffsbereit führen möchte.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.70",
+      "chapter": "Kapitel I. 36",
+      "section": "2. Rechte und Pflichten",
+      "page": 41,
+      "type": "multiple_choice",
+      "prompt": "Zum Führen welcher Waffen benötigt man keine Erlaubnis?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Waffen mit dem Zeichen",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Reizstoff-Sprühdosen mit dem Zeichen",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Waffen mit dem Zeichen",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.71",
+      "chapter": "Kapitel I. 36",
+      "section": "2. Rechte und Pflichten",
+      "page": 41,
+      "type": "multiple_choice",
+      "prompt": "Für welche Art des Umgangs mit Schusswaffen benötigt man einen Waffenschein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Transport einer erlaubnispflichtigen Waffe zum Schießstand",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Selbstschutz zu Hause",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Zugriffsbereites Führen einer erlaubnispflichtigen Waffe auf der Straße",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.72",
+      "chapter": "Kapitel I. 36",
+      "section": "2. Rechte und Pflichten",
+      "page": 41,
+      "type": "multiple_choice",
+      "prompt": "Als Erlaubnis zum zugriffsbereiten Führen einer Waffe braucht man den Kleinen Waffenschein für...",
+      "options": [
+        {
+          "key": "a",
+          "text": "Druckluft-, Federdruck-, CO2 Waffen.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Schreckschuss-, Reizstoff-, Signalwaffen mit dem Zeichen „PTB im Kreis“ (PTB = Physikalisch-Technische Bundesanstalt).",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Feuerwaffen, die nicht zugriffs- und nicht schussbereit transportiert werden.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.73",
+      "chapter": "Kapitel I. 37",
+      "section": "2. Rechte und Pflichten",
+      "page": 42,
+      "type": "self_assessment",
+      "prompt": "Wie ist eine Schusswaffe von der Wohnung zu der Schießstätte zu transportieren, wenn kein Waffenschein erteilt wurde?",
+      "options": [],
+      "answer_text": "Beim Transport darf die Waffe nicht zugriffsbereit und nicht schussbereit sein."
+    },
+    {
+      "id": "2.74",
+      "chapter": "Kapitel I. 37",
+      "section": "2. Rechte und Pflichten",
+      "page": 42,
+      "type": "multiple_choice",
+      "prompt": "a) Welche Signalwaffen können erlaubnisfrei erworben werden? b) Dürfen diese zugriffsbereit geführt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Signalwaffen mit dem Bauartzulassungszeichen „PTB im Kreis“ (PTB = PhysikalischTechnische Bundesanstalt).",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Das Führen ist nur mit dem Kleinen Waffenschein erlaubt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.75",
+      "chapter": "Kapitel I. 37",
+      "section": "2. Rechte und Pflichten",
+      "page": 42,
+      "type": "self_assessment",
+      "prompt": "Benötigen Jäger zur befugten Jagdausübung einen Waffenschein?",
+      "options": [],
+      "answer_text": "Nein"
+    },
+    {
+      "id": "2.76",
+      "chapter": "Kapitel I. 37",
+      "section": "2. Rechte und Pflichten",
+      "page": 42,
+      "type": "multiple_choice",
+      "prompt": "Wer benötigt einen Waffenschein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wer eine „scharfe“ Waffe zu Hause führt.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Wer eine Druckluftpistole unverpackt auf dem Rücksitz im PKW mitnimmt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Wer mit der Armbrust auf einem Feld schießt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.77",
+      "chapter": "Kapitel I. 37",
+      "section": "2. Rechte und Pflichten",
+      "page": 42,
+      "type": "multiple_choice",
+      "prompt": "Bei welcher der nebenstehend aufgeführten Schusswaffen benötigt man einen Waffenschein, wenn man sie außerhalb der Wohnung zugriffsbereit „bei sich“ hat?",
+      "options": [
+        {
+          "key": "a",
+          "text": "doppelläufiges Steinschlossgewehr (Modell vor 1871)",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Druckluftpistole mit einer Mündungsenergie bis zu 7,5 Joule",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Steinschloss-Duellpistole (Modell vor 1871)",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.78",
+      "chapter": "Kapitel I. 37",
+      "section": "2. Rechte und Pflichten",
+      "page": 42,
+      "type": "multiple_choice",
+      "prompt": "Einer Erlaubnis zum Führen einer erlaubnispflichtigen Schusswaffe bedarf nicht,",
+      "options": [
+        {
+          "key": "a",
+          "text": "wer diese beim Schießen auf Schießstätten zu einem vom Bedürfnis umfassten Zweck oder im Zusammenhang damit verwendet.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "wer die Waffe als Sportschütze unverpackt auf dem PKW-Rücksitz zum Büchsenmacher bringt.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "wer die Waffe seinen Freunden auf der Straße zeigt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.79",
+      "chapter": "Kapitel I. 38",
+      "section": "2. Rechte und Pflichten",
+      "page": 43,
+      "type": "multiple_choice",
+      "prompt": "Benötigen Sie zum Führen einer Druckluftpistole (mit Kennzeichnung „F im Fünfeck“) im Gürtelholster einen Waffenschein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Nein",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nur, wenn ich noch nicht volljährig bin.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.80",
+      "chapter": "Kapitel I. 38",
+      "section": "2. Rechte und Pflichten",
+      "page": 43,
+      "type": "multiple_choice",
+      "prompt": "Welcher der genannten Gegenstände darf nicht ohne weiteres geführt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Baseballschläger",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Klappmesser mit 14 cm langer, nicht feststellbarer einseitig geschliffener Klinge.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Kochmesser mit 14 cm langer Klinge.",
+          "correct": false
+        },
+        {
+          "key": "d",
+          "text": "Samuraischwert",
+          "correct": true
+        },
+        {
+          "key": "e",
+          "text": "Schlagstock",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.81",
+      "chapter": "Kapitel I. 38",
+      "section": "2. Rechte und Pflichten",
+      "page": 43,
+      "type": "multiple_choice",
+      "prompt": "Ist der Umgang mit sogenannten Pfeilabschussgeräten im Sinne des Waffengesetzes erlaubnispflichtig und der Eintrag in eine Waffenbesitzkarte erforderlich?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, da Pfeilabschussgeräte nicht in der Anlage 2 Unterabschnitt 2 -erlaubnisfreie Arten des Umgangs- genannt sind.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Nein, sie sind waffenrechtlich wie Armbrüste einzuordnen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.82",
+      "chapter": "Kapitel I. 38",
+      "section": "2. Rechte und Pflichten",
+      "page": 43,
+      "type": "multiple_choice",
+      "prompt": "Um Ihre Vorderschaftrepetierflinte leichter transportieren zu können ersetzen Sie den normalen Schaft durch einen Pistolengriff.",
+      "options": [
+        {
+          "key": "a",
+          "text": "Das ist verboten.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Änderungen am Schaft sind zulässig, wenn die Waffe danach noch mindestens 61 cm lang ist.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Das ist nur Jägern erlaubt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.83",
+      "chapter": "Kapitel I. 38",
+      "section": "2. Rechte und Pflichten",
+      "page": 43,
+      "type": "multiple_choice",
+      "prompt": "Welche Legitimationspapiere sind beim Transport einer erlaubnispflichtigen Schusswaffe durch einen Sportschützen mitzuführen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Personal-/Reisepass und Schützenausweis",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Waffenbesitzkarte und Waffenschein",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Personalausweis oder Reisepass und Waffenbesitzkarte",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.84",
+      "chapter": "Kapitel I. 39",
+      "section": "2. Rechte und Pflichten",
+      "page": 44,
+      "type": "multiple_choice",
+      "prompt": "Welche Dokumente muss ein Sportschütze mitführen, der a) seine eigene erlaubnispflichtige Waffe zum Schießstand führt (nicht zugriffs- bzw. schussbereit) b) die erlaubnispflichtige Waffe eines anderen zum Schießstand führt (nicht zugriffs- bzw. schussbereit)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Personalausweis oder Reisepass und WBK",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Personalausweis oder Reisepass, die eigene WBK und eine Bescheinigung des Überlassens mit Datum der Überlassung.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.85",
+      "chapter": "Kapitel I. 39",
+      "section": "2. Rechte und Pflichten",
+      "page": 44,
+      "type": "multiple_choice",
+      "prompt": "Welche Dokumente benötigen Sie zum zugriffsbereiten Führen einer bauartzugelassenen Schreckschusswaffe?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Keine Dokumente erforderlich, da der Erwerb ja auch genehmigungsfrei ist.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Kleiner Waffenschein und Personalausweis oder Reisepass",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Waffenbesitzkarte und Personalausweis oder Reisepass",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.86",
+      "chapter": "Kapitel I. 39",
+      "section": "2. Rechte und Pflichten",
+      "page": 44,
+      "type": "multiple_choice",
+      "prompt": "Der Transport einer KleinkaliberSportpistole durch einen WBK-Inhaber bedarf keiner Erlaubnis, wenn diese…",
+      "options": [
+        {
+          "key": "a",
+          "text": "im nicht einsehbaren Handschuhfach eines Pkw befördert wird.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "versteckt am Körper getragen wird.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "ungeladen im verschlossenen Waffenkoffer befördert wird, wenn der Transport zu einem vom Bedürfnis umfassten Zweck erfolgt.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.87",
+      "chapter": "Kapitel I. 39",
+      "section": "2. Rechte und Pflichten",
+      "page": 44,
+      "type": "multiple_choice",
+      "prompt": "Darf ein Anderer als der WBK-Inhaber dessen Kurzwaffe zur Instandsetzung zum Waffengeschäft bringen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, wenn er Inhaber einer WBK ist oder die Waffe gewerblich transportiert.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Nein, das ist nicht erlaubt.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Das muss immer erst bei der Behörde beantragt werden.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.88",
+      "chapter": "Kapitel I. 39",
+      "section": "2. Rechte und Pflichten",
+      "page": 44,
+      "type": "self_assessment",
+      "prompt": "Sie wollen den defekten Lauf ihrer Pistole zum Waffenhändler bringen. Wie nehmen sie ihn waffenrechtlich einwandfrei mit?",
+      "options": [],
+      "answer_text": "Bei einem Lauf handelt es sich um ein wesentliches Teil einer Waffe. Diese stehen den Schusswaffen gleich. Der Lauf ist deshalb nicht zugriffsbereit zu transportieren."
+    },
+    {
+      "id": "2.89",
+      "chapter": "Kapitel I. 39",
+      "section": "2. Rechte und Pflichten",
+      "page": 44,
+      "type": "self_assessment",
+      "prompt": "Was ist beim Transport einer Schusswaffe von der Wohnung zur Schießstätte zu beachten?",
+      "options": [],
+      "answer_text": "Beim Transport darf die Waffe nicht schussbereit und nicht zugriffsbereit sein. Der Transport darf nur zum vom Bedürfnis umfassten Zweck erfolgen."
+    },
+    {
+      "id": "2.90",
+      "chapter": "Kapitel I. 40",
+      "section": "2. Rechte und Pflichten",
+      "page": 45,
+      "type": "multiple_choice",
+      "prompt": "Erlaubnisfreies Führen im Sinne des Waffengesetzes liegt vor, wenn man als WBK-Inhaber die Waffe...",
+      "options": [
+        {
+          "key": "a",
+          "text": "bei einer Schützenhochzeit zum Spalier stehen verwendet.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "im verschlossenen Kofferraum des PKW, ungeladen und verpackt zum Schießstand fährt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "im verschlossenen Waffenkoffer zum Büchsenmacher transportiert.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.91",
+      "chapter": "Kapitel I. 40",
+      "section": "2. Rechte und Pflichten",
+      "page": 45,
+      "type": "self_assessment",
+      "prompt": "Unter welchen Voraussetzungen darf man in einem fremden Besitztum eine Schusswaffe ohne Waffenschein bei sich haben?",
+      "options": [],
+      "answer_text": "Unter der Voraussetzung, dass das Führen der Waffe vom Bedürfnis umfasst ist oder damit im Zusammenhang steht und der Hausrechtsinhaber zugestimmt hat."
+    },
+    {
+      "id": "2.92",
+      "chapter": "Kapitel I. 40",
+      "section": "2. Rechte und Pflichten",
+      "page": 45,
+      "type": "self_assessment",
+      "prompt": "Bedarf es zum Führen 1. einer nicht schussbereiten Waffe im unverschlossenen Handschuhfach oder 2. einer schussbereiten Waffe im verschlossenen Handschuhfach eines Waffenscheines?",
+      "options": [],
+      "answer_text": "Zu 1: Ja Zu 2: Ja"
+    },
+    {
+      "id": "2.93",
+      "chapter": "Kapitel I. 40",
+      "section": "2. Rechte und Pflichten",
+      "page": 45,
+      "type": "self_assessment",
+      "prompt": "Dürfen Teilnehmer an öffentlichen Veranstaltungen, insbesondere an Volksfesten und öffentlichen Vergnügungen, Waffen mit sich führen?",
+      "options": [],
+      "answer_text": "Nein, es sei denn, die zuständige Behörde hat allgemein oder für den Einzelfall eine Ausnahme zugelassen."
+    },
+    {
+      "id": "2.94",
+      "chapter": "Kapitel I. 40",
+      "section": "2. Rechte und Pflichten",
+      "page": 45,
+      "type": "self_assessment",
+      "prompt": "Brauchen Sie zum zugriffsbereiten Führen von Druckluft-, Federdruck- oder CO2-Waffen in der Öffentlichkeit einen Waffenschein?",
+      "options": [],
+      "answer_text": "Ja (Der Kleine Waffenschein reicht nicht aus.)"
+    },
+    {
+      "id": "2.95",
+      "chapter": "Kapitel I. 40",
+      "section": "2. Rechte und Pflichten",
+      "page": 45,
+      "type": "multiple_choice",
+      "prompt": "Ist der Transport einer erlaubnispflichtigen Schusswaffe durch den WBK-Inhaber von der Wohnung zum Schießstand zulässig?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nur mit Waffenschein.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, wenn sie ungeladen und gesichert im Holster am Körper getragen wird.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ja, wenn sie nicht zugriffsbereit und nicht schussbereit transportiert wird und dies vom Bedürfnis umfasst ist.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.96",
+      "chapter": "Kapitel I. 41",
+      "section": "2. Rechte und Pflichten",
+      "page": 46,
+      "type": "multiple_choice",
+      "prompt": "Eine Erlaubnis zum Führen einer Schusswaffe im Sinne des Waffengesetzes ist erforderlich, wenn",
+      "options": [
+        {
+          "key": "a",
+          "text": "... sie entladen in der unverschlossenen Aktentasche mitgeführt wird.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "... sie geladen in einer verschlossenen Aktentasche mitgeführt wird.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "... sie sich entladen im unverschlossenen Handschuhfach eines PKW befindet und die Munition in einem Metallbehältnis mit Schwenkriegelschloss im Kofferraum mitgeführt wird.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.97",
+      "chapter": "Kapitel I. 41",
+      "section": "2. Rechte und Pflichten",
+      "page": 46,
+      "type": "self_assessment",
+      "prompt": "Wer ist zum zugriffsbereiten Führen von Schreckschuss-, Reizstoff- und Signalwaffen, deren Erwerb und Besitz erlaubnisfrei ist, berechtigt?",
+      "options": [],
+      "answer_text": "Inhaber des Kleinen Waffenscheines"
+    },
+    {
+      "id": "2.98",
+      "chapter": "Kapitel I. 41",
+      "section": "2. Rechte und Pflichten",
+      "page": 46,
+      "type": "multiple_choice",
+      "prompt": "Welche Schusswaffen bzw. sonstigen Waffen dürfen Sie bei öffentlichen Veranstaltungen „bei sich“ haben?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Erlaubt ist das Führen eines Schreckschussrevolvers, wenn ich den Kleinen Waffenschein habe.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Steinschlosspistole, weil diese nach dem WaffG ohnehin geführt werden darf.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Es dürfen keine Waffen im Sinne des § 1 Abs. 2 WaffG bei sich geführt werden.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.99",
+      "chapter": "Kapitel I. 41",
+      "section": "2. Rechte und Pflichten",
+      "page": 46,
+      "type": "multiple_choice",
+      "prompt": "Kann man eine im Ausland erworbene erlaubnispflichtige Schusswaffe in die Bundesrepublik einführen/verbringen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, ohne Einschränkung.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, mit Waffenbesitzkarte.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ja, mit Verbringungserlaubnissen der zuständigen Behörden.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.100",
+      "chapter": "Kapitel I. 41",
+      "section": "2. Rechte und Pflichten",
+      "page": 46,
+      "type": "multiple_choice",
+      "prompt": "Unter welchen Voraussetzungen darf man eine im Ausland erworbene Schusswaffe, die in der Bundesrepublik Deutschland erlaubnispflichtig ist, in das Bundesgebiet einführen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nur, wenn man im Besitz einer in Deutschland gültigen Waffenbesitzkarte mit Voreintrag ist.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nur, wenn man im Besitz eines Europäischen Feuerwaffenpasses ist.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nur, wenn man im Besitz der entsprechenden Verbringungserlaubnisse ist.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.101",
+      "chapter": "Kapitel I. 42",
+      "section": "2. Rechte und Pflichten",
+      "page": 47,
+      "type": "multiple_choice",
+      "prompt": "Was ist beim Verbringen von Schusswaffen über Staatsgrenzen immer zu beachten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Beim Verbringen von Waffen nach Deutschland müssen vor Grenzübertritt die erforderlichen Erlaubnisse (z.B. Verbringungserlaubnis) vorliegen.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Beim Verbringen von Waffen aus Deutschland müssen vor Grenzübertritt die erforderlichen Erlaubnisse des Ziellandes, der Bundesrepublik Deutschland und ggf. aller Transitländer vorliegen.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Es genügt immer eine deutsche WBK.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.102",
+      "chapter": "Kapitel I. 42",
+      "section": "2. Rechte und Pflichten",
+      "page": 47,
+      "type": "multiple_choice",
+      "prompt": "Was muss ein Waffenbesitzer veranlassen, wenn er seine erlaubnispflichtige Schusswaffe in einem anderen Mitgliedsstaat der Europäischen Union verkaufen möchte?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nichts, der Verkauf von erlaubnispflichtigen Schusswaffen in das europäische Ausland ist generell erlaubnisfrei.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Der Waffenbesitzer lässt sich die Erwerbserlaubnis des Käufers vorlegen und überlässt diesem dann die Waffe. Der Käufer meldet die Waffe nach Erhalt in seinem Heimatland an. Anschließend schickt er dem Verkäufer eine Kopie der Anmeldung, damit dieser die Waffe bei seiner Behörde abmelden kann.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Er bittet den Käufer um Übersendung einer Erlaubnis des Empfängerlandes zur Einfuhr der Waffe. Anschließend beantragt der Verkäufer bei seiner zuständigen Behörde eine Erlaubnis zum dauerhaften Verbringen der Waffe ins Ausland. Erst nach Erlaubniserteilung darf die Waffe verbracht werden. (Die Behörde meldet die Erteilung der Ausfuhrerlaubnis dem Bundesverwaltungsamt, EU-Meldedienst)",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.103",
+      "chapter": "Kapitel I. 43",
+      "section": "2. Rechte und Pflichten",
+      "page": 48,
+      "type": "multiple_choice",
+      "prompt": "Darf man als Inhaber einer Waffenbesitzkarte eine im Ausland erworbene Schusswaffe in die Bundesrepublik Deutschland einführen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, aber nur wenn sich in der Waffenbesitzkarte ein entsprechender Voreintrag der zuständigen Erlaubnisbehörde befindet.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, die Waffe ist innerhalb von 14 Tagen bei der zuständigen Erlaubnisbehörde anzumelden.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nein, man benötigt vor der Einfuhr zunächst eine Verbringungserlaubnis seiner zuständigen Waffenbehörde und dann eine Verbringungserlaubnis des ausländischen Staates.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.104",
+      "chapter": "Kapitel I. 43",
+      "section": "2. Rechte und Pflichten",
+      "page": 48,
+      "type": "self_assessment",
+      "prompt": "Wozu berechtigt der Europäische Feuerwaffenpass?",
+      "options": [],
+      "answer_text": "Zur Mitnahme der dort eingetragenen Feuerwaffen und für diese bestimmten Munition in einen anderen Mitgliedsstaat. Eventuell ist eine Genehmigung des Mitgliedstaates notwendig."
+    },
+    {
+      "id": "2.105",
+      "chapter": "Kapitel I. 43",
+      "section": "2. Rechte und Pflichten",
+      "page": 48,
+      "type": "multiple_choice",
+      "prompt": "Wozu berechtigt mich der Europäische Feuerwaffenpass?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Zum dauerhaften Verbringen von Feuerwaffen in Mitgliedstaaten.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Zur Feuerwaffenmitnahme bei Reisen in Mitgliedstaaten, beispielsweise zur Teilnahme an schießsportlichen Veranstaltungen oder zur Jagd.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Zur Feuerwaffenmitnahme bei Reisen in Mitgliedstaaten, muss ich die Reise mindestens 14 Tage vorher meiner zuständigen Erlaubnisbehörde schriftlich anzeigen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.106",
+      "chapter": "Kapitel I. 43",
+      "section": "2. Rechte und Pflichten",
+      "page": 48,
+      "type": "multiple_choice",
+      "prompt": "Wie können Feuerwaffen dauerhaft in einen anderen Mitgliedstaat verbracht werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Die Feuerwaffen können mit einem Europäischen Feuerwaffenpass verbracht werden.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Eine Verbringungserlaubnis zum Verbringen in einen Mitgliedstaat ist nicht erforderlich.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Durch vorherige Verbringungserlaubnis des Mitgliedsstaates und darauf folgend einer Verbringungserlaubnis der zuständigen deutschen Waffenbehörde.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.107",
+      "chapter": "Kapitel I. 44",
+      "section": "2. Rechte und Pflichten",
+      "page": 49,
+      "type": "multiple_choice",
+      "prompt": "Welche Handlung erfüllt einen Straftatbestand im Sinne des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Feuerwaffen werden dauerhaft ohne entsprechende Erlaubnisse zum Verbringen in einen Mitgliedstaat verbracht.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Feuerwaffen werden ohne eine waffenrechtliche Erlaubnis zur Ausfuhr in einen Drittstaat verbracht.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Feuerwaffen werden mit einem Europäischen Feuerwaffenpasses dauerhaft in einen Mitgliedstaat verbracht.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.108",
+      "chapter": "Kapitel I. 44",
+      "section": "2. Rechte und Pflichten",
+      "page": 49,
+      "type": "multiple_choice",
+      "prompt": "Was ist bei einer dauerhaften Ausfuhr von Schusswaffen in einen Drittstaat zu beachten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Es ist nichts zu beachten.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Es ist eine Ausfuhrerlaubnis der zuständigen Waffenbehörde erforderlich.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Außenwirtschaftsrechtliche Bestimmungen sind zu beachten (Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA).",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.109",
+      "chapter": "Kapitel I. 44",
+      "section": "2. Rechte und Pflichten",
+      "page": 49,
+      "type": "multiple_choice",
+      "prompt": "Berechtigt der Europäische Feuerwaffenpass zur Einfuhr von erlaubnispflichtiger Munition aus einem Mitgliedstaat, sofern die Munition dort von Ihnen berechtigterweise erworben wurde?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nein. Eine Verbringungserlaubnis ist erforderlich.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Ja, aber nur wenn eine Waffe entsprechenden Kalibers in den EFP eingetragen ist.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.110",
+      "chapter": "Kapitel I. 44",
+      "section": "2. Rechte und Pflichten",
+      "page": 49,
+      "type": "multiple_choice",
+      "prompt": "Welche Waffen dürfen ohne Beschusszeichen einem anderen zum Schießen überlassen werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "alle Schusswaffen",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Grundsätzlich keine Schusswaffen, außer diejenigen, die vor dem 1. Januar 1891 hergestellt wurden oder für die von einem Beschussamt eine Bescheinigung darüber ausgestellt wurde, dass der Beschuss der Waffe nicht durchgeführt werden kann.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Doppelflinten",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.111",
+      "chapter": "Kapitel I. 45",
+      "section": "2. Rechte und Pflichten",
+      "page": 50,
+      "type": "multiple_choice",
+      "prompt": "Dürfen Sie als Sportschütze mit einer Schusswaffe, die der Beschusspflicht unterliegt, auf dem Schießstand „Probeschüsse“ abgeben, wenn kein Beschussstempel angebracht ist?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, das Probeschießen ist gestattet.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nein, das ist niemals gestattet.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Solche Schüsse sind nur durch die verantwortliche Aufsicht zulässig.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.112",
+      "chapter": "Kapitel I. 45",
+      "section": "2. Rechte und Pflichten",
+      "page": 50,
+      "type": "multiple_choice",
+      "prompt": "Wann ist eine Waffe erneut zu beschießen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Neuwaffen nach 15 Jahren, bei Gebrauchtwaffen nach 10 Jahren.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ein Beschuss ist unter anderem dann erforderlich, wenn eine Waffe von einem gewerblichen Waffenhändler an einen Kunden verkauft wird.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ein erneuter Beschuss muss immer dann erfolgen, wenn wesentliche Teile der Waffe verändert oder instand gesetzt wurden.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.113",
+      "chapter": "Kapitel I. 45",
+      "section": "2. Rechte und Pflichten",
+      "page": 50,
+      "type": "multiple_choice",
+      "prompt": "Ist die zuständige Erlaubnisbehörde zu unterrichten, wenn durch einen Büchsenmacher der Lauf ersetzt und die Waffe anschließend neu beschossen wurde?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Die Erlaubnisbehörde ist immer zu unterrichten.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Die Erlaubnisbehörde ist zu unterrichten, wenn ein wesentliches Teil erworben wurde.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Die Erlaubnisbehörde ist nie zu unterrichten.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.114",
+      "chapter": "Kapitel I. 45",
+      "section": "2. Rechte und Pflichten",
+      "page": 50,
+      "type": "multiple_choice",
+      "prompt": "Was bedeutet die Überstempelung eines Beschusszeichens mit einem „X“?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Die Waffe wurde in England erneut beschossen, es ist nur noch der englische Beschuss gültig.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Die Waffe wurde bei einer erneuten Beschussprüfung als nicht mehr beschusstauglich befunden, der bereits vorhandene Beschussstempel ist ungültig.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Die Waffe wurde für den Export nach Großbritannien erneut beschossen, da dort der deutsche Beschuss nicht gültig ist.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.115",
+      "chapter": "Kapitel I. 46",
+      "section": "2. Rechte und Pflichten",
+      "page": 51,
+      "type": "multiple_choice",
+      "prompt": "Wann ist eine Waffe erneut zum Beschuss vorzulegen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "ein neuer Lauf (kein Austauschlauf) wurde eingebaut",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Sportgriffschalen wurden montiert",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "der Verschluss wurde erneuert",
+          "correct": true
+        },
+        {
+          "key": "d",
+          "text": "die Schussfolge wurde geändert",
+          "correct": true
+        },
+        {
+          "key": "e",
+          "text": "der Lauf wurde mit Kompensatoröffnungen versehen",
+          "correct": true
+        },
+        {
+          "key": "f",
+          "text": "das Abzugsgewicht wurde durch Einbau einer anderen Feder verringert",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.116",
+      "chapter": "Kapitel I. 46",
+      "section": "2. Rechte und Pflichten",
+      "page": 51,
+      "type": "multiple_choice",
+      "prompt": "Darf mit einer amerikanischen Schusswaffe mit französischem Beschusszeichen in der Bundesrepublik geschossen werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nein, die Waffe braucht ein deutsches Beschusszeichen.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, das französische Beschusszeichen ist anerkannt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nein, die Waffe braucht ein amerikanisches Beschusszeichen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.117",
+      "chapter": "Kapitel I. 46",
+      "section": "2. Rechte und Pflichten",
+      "page": 51,
+      "type": "multiple_choice",
+      "prompt": "Eine Feuerwaffe wird aus einem der nebenstehenden Länder eingeführt. Bei welchem Land muss die Feuerwaffe einem Beschussamt der C.I.P. (Internationale Kommission zur Prüfung von Handfeuerwaffen und Munition) vorgelegt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "USA",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Ungarn",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Chile",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.118",
+      "chapter": "Kapitel I. 46",
+      "section": "2. Rechte und Pflichten",
+      "page": 51,
+      "type": "multiple_choice",
+      "prompt": "Wo dürfen Sie mit Druckluftwaffen, die das Zeichen „F im Fünfeck“ tragen, schießen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "In Ihrem eingezäunten Garten, wenn sichergestellt ist, dass die Geschosse den Garten nicht verlassen können.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "In einem verlassenen Steinbruch (kein Geschoss kann das Gelände verlassen).",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nur auf zugelassenen Schießständen.",
+          "correct": false
+        },
+        {
+          "key": "d",
+          "text": "Im eigenen Keller, wenn hierbei niemand gefährdet werden kann.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.119",
+      "chapter": "Kapitel I. 47",
+      "section": "2. Rechte und Pflichten",
+      "page": 52,
+      "type": "multiple_choice",
+      "prompt": "Benötigen Sie zum Schießen mit einer Waffe im Kaliber 6 mm Flobert (kein F im Fünfeck auf der Waffe vorhanden) eine behördliche Erlaubnis?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nein",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, außerhalb von Schießstätten.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nicht auf dafür zugelassenen Schießstätten.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.120",
+      "chapter": "Kapitel I. 47",
+      "section": "2. Rechte und Pflichten",
+      "page": 52,
+      "type": "multiple_choice",
+      "prompt": "Wo darf man ohne Erlaubnis mit einem Gewehr im Kaliber .22lr schießen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Im Wald",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Außerhalb des befriedeten Besitztums",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Auf dafür zugelassenen Schießstätten",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.121",
+      "chapter": "Kapitel I. 47",
+      "section": "2. Rechte und Pflichten",
+      "page": 52,
+      "type": "multiple_choice",
+      "prompt": "Wann darf ein 14-jähriger mit dem Einverständnis des/der Sorgeberechtigten auf dem Schießstand mit einer Waffe für Randfeuerpatronen bis Kaliber 5,6 mm lfB (.22lr) und einer Mündungsenergie von maximal 200 Joule schießen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wenn der Schießstandbetreiber zustimmt.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Wenn der erforderlichen Aufsichtsperson das Einverständnis des/der Sorgeberechtigten vorliegt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Wenn die behördliche Ausnahmegenehmigung vorliegt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.122",
+      "chapter": "Kapitel I. 47",
+      "section": "2. Rechte und Pflichten",
+      "page": 52,
+      "type": "multiple_choice",
+      "prompt": "In welchem Alter darf ein Jugendlicher auf dem Schießstand, ohne unter einer besonderen Obhut (durch den/die Sorgeberechtigten oder der zur Kinder- und Jugendarbeit für das Schießen geeigneten Aufsichtsperson) zu stehen, mit einem Kleinkaliber-Match-Gewehr schießen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "mit 12 Jahren",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "mit 14 Jahren",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "mit 17 Jahren",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.123",
+      "chapter": "Kapitel I. 48",
+      "section": "2. Rechte und Pflichten",
+      "page": 53,
+      "type": "multiple_choice",
+      "prompt": "Mit welchen Waffen dürfen ein 13jähriger und ein 15-jähriger auf einer zugelassenen Schießstätte schießen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ein 13-jähriger darf mit Druckluft-, Federdruck- und CO2-Waffen schießen, wenn der/die Sorgeberechtigte/n schriftlich oder elektronisch sein/ihr Einverständnis erklärt hat/haben und eine geeignete Aufsichtsperson ständig anwesend ist.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Ein 15-jähriger darf mit halbautomatischen Waffen bis Kaliber 9mm schießen, wenn der/die Sorgeberechtigte/n schriftlich oder elektronisch sein/ihr Einverständnis er-klärt hat/haben und eine geeignete Aufsichtsperson ständig anwesend.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ein 15-jähriger darf mit Waffen für Randfeuerpatronen bis Kaliber 5,6 mm lfB (.22 l. r.) und einer Mündungsenergie von maximal 200 Joule und mit Einzellader-Langwaffen mit glatten Läufen im Kaliber 12 oder kleiner schießen, wenn der/die Sorgeberechtigte/n schriftlich oder elektronisch sein/ihr Einverständnis erklärt hat/haben und eine geeignete Aufsichtsperson ständig anwesend ist.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.124",
+      "chapter": "Kapitel I. 48",
+      "section": "2. Rechte und Pflichten",
+      "page": 53,
+      "type": "multiple_choice",
+      "prompt": "Darf ein 16-jähriger Schütze auf einer dafür zugelassenen Schießstätte mit einer halbautomatischen Pistole im Kaliber .40 S&W schießen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wenn eine verantwortliche Aufsichtsperson anwesend ist, ist dies möglich.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nur unter Aufsicht eines Behördenvertreters.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Nein, der Schütze muss dafür mindestens 18 Jahre alt sein.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.125",
+      "chapter": "Kapitel I. 48",
+      "section": "2. Rechte und Pflichten",
+      "page": 53,
+      "type": "multiple_choice",
+      "prompt": "Unter welchen Voraussetzungen darf ein Jugendlicher nach Vollendung des 15. Lebensjahres und noch nicht vollendetem 16. Lebensjahr auf dem Schießstand eines Vereins schießen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mit schriftlichem Einverständnis der Sorgeberechtigten bei Druckluftwaffen bis zu 7,5 Joule Bewegungsenergie.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Hierfür ist die behördliche Genehmigung (§3 WaffG) erforderlich.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Mit schriftlichem Einverständnis der Sorgeberechtigten und unter Aufsicht einer hierfür geeigneten Person beim Schießen mit einem Kleinkalibergewehr (.22lr) mit maximal 200 Joule Mündungsenergie.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.126",
+      "chapter": "Kapitel I. 49",
+      "section": "2. Rechte und Pflichten",
+      "page": 54,
+      "type": "multiple_choice",
+      "prompt": "Unter welchen Voraussetzungen darf ein Kind nach Vollendung seines 12. Lebensjahres mit einer Druckluftpistole auf dem Schießstand eines Vereins schießen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Das Kind darf nur mit der vereinseigenen Druckluftpistole schießen.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Hierfür ist die behördliche Genehmigung (§3 WaffG) erforderlich.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Das Kind darf mit schriftlichem Einverständnis seiner Eltern und unter Aufsicht einer hierfür geeigneten Person schießen.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.127",
+      "chapter": "Kapitel I. 49",
+      "section": "2. Rechte und Pflichten",
+      "page": 54,
+      "type": "multiple_choice",
+      "prompt": "Darf eine kombinierte Langwaffe (z.B. Drilling) zum sportlichen Schießen benutzt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, nur wenn es die Sportordnung und die Schießstandzulassung erlauben.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Nein, kombinierte Waffen sind vom sportlichen Schießen ausgeschlossen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ja, ohne jede Einschränkung.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.128",
+      "chapter": "Kapitel I. 49",
+      "section": "2. Rechte und Pflichten",
+      "page": 54,
+      "type": "multiple_choice",
+      "prompt": "Wo darf der Sportschütze Patronen mit Hohlspitzgeschossen aus Kurzwaffen im Kaliber .22lr verschießen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Auf dem eigenen Grundstück.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Auf dafür zugelassenen Schießständen.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nirgends, das ist gesetzlich verboten.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.129",
+      "chapter": "Kapitel I. 49",
+      "section": "2. Rechte und Pflichten",
+      "page": 54,
+      "type": "multiple_choice",
+      "prompt": "Welche Dokumente benötigt ein Brauchtumsschütze beim Schießen in der Öffentlichkeit?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Waffenschein und Pass",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Waffenbesitzkarte und Sportschützenausweis",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Schießerlaubnis, evtl. Waffenbesitzkarte und Personalausweis, bei Vorderladern: „Erlaubnis nach dem Sprengstoffgesetz“.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.130",
+      "chapter": "Kapitel I. 49",
+      "section": "2. Rechte und Pflichten",
+      "page": 54,
+      "type": "multiple_choice",
+      "prompt": "Ist für das Schießen mit einem Gewehr im Kaliber .22lr im Keller eines Wohnhauses eine behördliche Erlaubnis erforderlich?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nein, wenn die Sicherheit gewährleistet ist.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, eine Erlaubnis zum Betrieb einer Schießstätte oder eine Schießerlaubnis.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nein, die des Hauseigentümers reicht aus.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.131",
+      "chapter": "Kapitel I. 50",
+      "section": "2. Rechte und Pflichten",
+      "page": 55,
+      "type": "multiple_choice",
+      "prompt": "Sie wollen an Silvester mit Ihrer Repetierbüchse auf der öffentlichen Straße vor Ihrem Haus Kartuschenmunition verschießen. Was ist dabei zu beachten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ich benötige einen kleinen Waffenschein.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Es sind lediglich die Zeiten an Silvester zu beachten, an denen Pyrotechnisches Material gezündet werden darf.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ich benötige einen Waffenschein und eine Schießerlaubnis.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.132",
+      "chapter": "Kapitel I. 50",
+      "section": "2. Rechte und Pflichten",
+      "page": 55,
+      "type": "multiple_choice",
+      "prompt": "Darf man zu Silvester mit einem Revolver im Kaliber .38 Spezial ohne behördliche Erlaubnis Platzpatronen (Kartuschenmunition) verschießen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nein",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Ja. Dies ist aber nur innerhalb der behördlich genehmigten „Knallzeit“ zulässig, wenn man sich zudem auf einem befriedeten Grundstück befindet.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ja. Dies ist aber nur innerhalb der behördlich genehmigten „Knallzeit“ zulässig, wenn man sich zudem auf seinem eigenen, befriedeten Grundstück befindet.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.133",
+      "chapter": "Kapitel I. 50",
+      "section": "2. Rechte und Pflichten",
+      "page": 55,
+      "type": "multiple_choice",
+      "prompt": "Ist das nichtgewerbliche Wiederladen von Patronenhülsen erlaubt?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, für Inhaber einer Munitionserwerbserlaubnis.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, nur mit einer Erlaubnis nach § 27 Sprengstoffgesetz.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nein",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.134",
+      "chapter": "Kapitel I. 50",
+      "section": "2. Rechte und Pflichten",
+      "page": 55,
+      "type": "multiple_choice",
+      "prompt": "Das nichtgewerbliche Wiederladen von Patronenmunition ist...",
+      "options": [
+        {
+          "key": "a",
+          "text": "für jeden erlaubt, der eine Waffensachkundeprüfung bestanden hat.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "für jeden erlaubt, der gefahrlos mit Schwarzpulver umgehen kann.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "für jeden erlaubt, der die Fachkundeprüfung nach dem Sprengstoffgesetz nachgewiesen hat und dem durch die Behörde eine entsprechende Erlaubnis nach § 27 SprengG erteilt wurde.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.135",
+      "chapter": "Kapitel I. 50",
+      "section": "2. Rechte und Pflichten",
+      "page": 55,
+      "type": "self_assessment",
+      "prompt": "Berechtigt die abgelegte Sachkundeprüfung zum nichtgewerblichen Wiederladen von Hülsen?",
+      "options": [],
+      "answer_text": "Nein, hierzu bedarf es einer gesonderten Fachkundeprüfung nach dem Sprengstoffgesetz und einer Erlaubnis nach § 27 SprengG."
+    },
+    {
+      "id": "2.136",
+      "chapter": "Kapitel I. 51",
+      "section": "2. Rechte und Pflichten",
+      "page": 56,
+      "type": "multiple_choice",
+      "prompt": "Berechtigt die abgelegte Sachkundeprüfung zum nichtgewerblichen Wiederladen von Hülsen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, durch die Sachkundeprüfung ist man berechtigt Hülsen wiederzuladen.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nein, es ist eine Erlaubnis nach § 27 Sprengstoffgesetz erforderlich.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Das Wiederladen von Hülsen ist immer erlaubt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.137",
+      "chapter": "Kapitel I. 51",
+      "section": "2. Rechte und Pflichten",
+      "page": 56,
+      "type": "multiple_choice",
+      "prompt": "Welche Änderung an einer Schusswaffe dürfen nur von hierzu berechtigten Personen durchgeführt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Schaftmodifizierung",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Änderung am Visier",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Anbringen von Bohrungen an der Systemhülse zur Zielfernrohrmontage",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.138",
+      "chapter": "Kapitel I. 51",
+      "section": "2. Rechte und Pflichten",
+      "page": 56,
+      "type": "multiple_choice",
+      "prompt": "Welche Änderung an einer Schusswaffe dürfen nur von hierzu berechtigten Personen durchgeführt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Änderung des Verschlusses von Rand- auf Zentralfeuer",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Aufsetzen eines Wechselsystems",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Anbringen von Sportgriffschalen",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.139",
+      "chapter": "Kapitel I. 51",
+      "section": "2. Rechte und Pflichten",
+      "page": 56,
+      "type": "multiple_choice",
+      "prompt": "Welche Änderungen an Schusswaffen dürfen nur von hierzu berechtigten Personen durchgeführt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Verkürzung des Laufes",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Die Schussfolge der Waffe wird verändert.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Die Schusswaffe wird so geändert, dass andere Munition oder Geschosse mit anderem Kaliber aus ihr verschossen werden können.",
+          "correct": true
+        },
+        {
+          "key": "d",
+          "text": "Wesentliche Teile, zu deren Einpassung eine Nacharbeit erforderlich ist, werden ausgewechselt.",
+          "correct": true
+        },
+        {
+          "key": "e",
+          "text": "Der gesamte Schaft wird getauscht.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.140",
+      "chapter": "Kapitel I. 51",
+      "section": "2. Rechte und Pflichten",
+      "page": 56,
+      "type": "multiple_choice",
+      "prompt": "Sie brauchen eine behördliche Erlaubnis...",
+      "options": [
+        {
+          "key": "a",
+          "text": "zum Austausch eines Trainingsabzuges.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "zur Verwendung eines 10 Schuss- anstelle eines 5 Schuss- Magazins.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "zur Änderung des Patronenlagers / Laufinneren auf ein größeres Kaliber.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.141",
+      "chapter": "Kapitel I. 52",
+      "section": "2. Rechte und Pflichten",
+      "page": 57,
+      "type": "multiple_choice",
+      "prompt": "Dürfen Sie Schusswaffen für bessere Ergebnisse ohne Erlaubnis bearbeiten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nur, wenn ich in der Metallbearbeitung erfahren bin.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Abzug, Visierung und Schaft dürfen von mir bearbeitet werden.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Auch wesentliche Teile dürfen von mir geändert werden.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.142",
+      "chapter": "Kapitel I. 52",
+      "section": "2. Rechte und Pflichten",
+      "page": 57,
+      "type": "multiple_choice",
+      "prompt": "Eine Langwaffe wird unzulässigerweise bearbeitet, wenn Sie ohne Erlaubnis...",
+      "options": [
+        {
+          "key": "a",
+          "text": "den Gewehrlauf kürzen.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "eine Schaftkappe montieren.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "die Griffschalen austauschen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.143",
+      "chapter": "Kapitel I. 52",
+      "section": "2. Rechte und Pflichten",
+      "page": 57,
+      "type": "multiple_choice",
+      "prompt": "Eine Kurzwaffe wird von Ihnen unzulässigerweise bearbeitet, wenn ohne Erlaubnis...",
+      "options": [
+        {
+          "key": "a",
+          "text": "der Lauf mit Kompensatorbohrungen versehen wird.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "ein Balkenkorn eingesetzt wird.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.144",
+      "chapter": "Kapitel I. 52",
+      "section": "2. Rechte und Pflichten",
+      "page": 57,
+      "type": "self_assessment",
+      "prompt": "Darf zugelassene pyrotechnische Munition im Aufbau verändert werden?",
+      "options": [],
+      "answer_text": "Nein"
+    },
+    {
+      "id": "2.145",
+      "chapter": "Kapitel I. 52",
+      "section": "2. Rechte und Pflichten",
+      "page": 57,
+      "type": "multiple_choice",
+      "prompt": "Wenn ein Mitglied, das als Sportschütze eine waffenrechtliche Erlaubnis besitzt, aus dem Schießsportverein austritt, muss der Verein ...",
+      "options": [
+        {
+          "key": "a",
+          "text": "den Austritt unverzüglich der zuständigen Behörde melden.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "die Waffen des Mitgliedes in Verwahrung nehmen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "nichts tun.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.146",
+      "chapter": "Kapitel I. 52",
+      "section": "2. Rechte und Pflichten",
+      "page": 57,
+      "type": "multiple_choice",
+      "prompt": "Dürfen Sorgeberechtigte minderjährige Schützen beim Schießbetrieb beaufsichtigen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, wenn sie zur Standaufsicht berechtigt sind, dürfen sie ihre Kinder beaufsichtigen.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Nein, das dürfen nur in der Kinderund Jugendarbeit ausgebildete Obhutspersonen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ja, Sorgeberechtigte dürfen alle minderjährigen Schützen beim Schießbetrieb beaufsichtigen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.147",
+      "chapter": "Kapitel I. 53",
+      "section": "2. Rechte und Pflichten",
+      "page": 58,
+      "type": "multiple_choice",
+      "prompt": "Was hat ein schießsportlicher Verein eines anerkannten Schießsportverbandes im Hinblick auf die Aufsicht zu beachten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Aufsichtspersonen im Verein registrieren.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Voraussetzungen der Sachkunde prüfen.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Ein Nachweisdokument ausstellen.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.148",
+      "chapter": "Kapitel I. 53",
+      "section": "2. Rechte und Pflichten",
+      "page": 58,
+      "type": "multiple_choice",
+      "prompt": "Ab welchem Alter dürfen Kinder und Jugendliche mit Druckluft-, Federdruck- oder CO2-Waffen schießen und was ist dabei zu beachten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ab 12 Jahren, wenn die Sorgeberechtigten schriftlich oder elektronisch dabei sind.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ab 12 Jahren, sofern die Personensorgeberechtigten ihr Einverständnis erklärt haben und eine geeignete Aufsichtsperson zur Betreuung vorhanden ist.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Ab 12 Jahren, wenn die Sorgeberechtigten schriftlich oder elektronisch ihr Einverständnis erklärt haben.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.149",
+      "chapter": "Kapitel I. 53",
+      "section": "2. Rechte und Pflichten",
+      "page": 58,
+      "type": "multiple_choice",
+      "prompt": "Wer darf auf einer Schießstätte Aufsicht führen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Alle Vereinsmitglieder",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Der Eigentümer der Schießstätte",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Alle vom Betreiber bestellten Personen.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.150",
+      "chapter": "Kapitel I. 53",
+      "section": "2. Rechte und Pflichten",
+      "page": 58,
+      "type": "self_assessment",
+      "prompt": "Wer darf die Schießaufsicht ausüben?",
+      "options": [],
+      "answer_text": "Der Aufsichtsberechtigte muss volljährig, zuverlässig, persönlich geeignet und sachkundig sowie zur Aufsicht bestellt sein."
+    },
+    {
+      "id": "2.151",
+      "chapter": "Kapitel I. 53",
+      "section": "2. Rechte und Pflichten",
+      "page": 58,
+      "type": "self_assessment",
+      "prompt": "Darf eine Aufsicht selbst am Schießen teilnehmen?",
+      "options": [],
+      "answer_text": "Nein"
+    },
+    {
+      "id": "2.152",
+      "chapter": "Kapitel I. 53",
+      "section": "2. Rechte und Pflichten",
+      "page": 58,
+      "type": "multiple_choice",
+      "prompt": "Welche Anforderungen werden an die verantwortliche Aufsichtsperson gestellt?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Volljährigkeit, persönliche Eignung",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Zuverlässigkeit, Sachkunde",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Bei Aufsicht über Minderjährige die Eignung für Kinder- und Jugendarbeit",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.153",
+      "chapter": "Kapitel I. 54",
+      "section": "2. Rechte und Pflichten",
+      "page": 59,
+      "type": "multiple_choice",
+      "prompt": "Was zählt zu den Aufgaben der verantwortlichen Aufsichtsperson?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Dafür Sorge zu tragen, dass von den Schützen und ihren Waffen keine Gefahr ausgeht.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Die Betreuung von Zuschauern und Gästen.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Überprüfen, ob der Verbandskasten aufgefüllt ist.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "2.154",
+      "chapter": "Kapitel I. 54",
+      "section": "2. Rechte und Pflichten",
+      "page": 59,
+      "type": "self_assessment",
+      "prompt": "Nennen sie mindestens vier Pflichten der verantwortlichen Aufsichtsperson beim Schießen!",
+      "options": [],
+      "answer_text": "- Das Schießen ständig beaufsichtigen, insbesondere - dafür zu sorgen, dass nur mit für die Schießstätte zugelassenen Waffen und Munition geschossen wird, - sicherzustellen, dass nur Kinder und Jugendliche ab den vorgeschriebenen Altersgrenzen und mit den altersmäßig zugelassenen Waffen teilnehmen und - die dafür eventuell notwendigen Einverständniserklärungen der Personensorgeberechtigten aufbewahren und der zuständigen Behörde auf Verlangen aushändigen. - Dafür Sorge tragen, dass die in der Schießstätte anwesenden Personen durch ihr Verhalten keine vermeidbaren Gefahren verursachen."
+    },
+    {
+      "id": "3.01",
+      "chapter": "Kapitel I. 55",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 60,
+      "type": "multiple_choice",
+      "prompt": "Bei welchen Dekorationswaffen ist kein Zulassungszeichen (Ortszeichen des Beschussamtes in der Raute) erforderlich?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bei allen offensichtlich unbrauchbaren und nicht mehr schussfähigen Waffen, die vor dem 01.01.1970 hergestellt wurden.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Bei allen Schusswaffen, die vor dem 01.04.2003 nach dem damals geltenden Waffenrecht unbrauchbar gemacht wurden.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Bei allen Schusswaffen, deren Modell vor dem 01.01.1871 hergestellt oder entwickelt wurde.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.02",
+      "chapter": "Kapitel I. 55",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 60,
+      "type": "multiple_choice",
+      "prompt": "Welches Kennzeichen muss u.a. auf einem Großkaliber-Revolver angebracht sein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bezeichnung der Munition",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Herstellerzeichen",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Warnhinweis „Gefährlich…“",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.03",
+      "chapter": "Kapitel I. 55",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 60,
+      "type": "multiple_choice",
+      "prompt": "Welche Kennzeichnung trägt üblicherweise eine Feuerwaffe?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Name des Besitzers",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Beschusszeichen",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Lauflänge",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.04",
+      "chapter": "Kapitel I. 55",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 60,
+      "type": "multiple_choice",
+      "prompt": "Welche Kennzeichnung trägt üblicherweise eine Schusswaffe?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Name, Firma oder Marke eines Waffenherstellers oder -händlers, der im Geltungsbereich dieses Gesetzes eine gewerbliche Niederlassung hat.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Landeskürzel des Herstellungslandes",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "die Bezeichnung der Munition; sofern keine Munition verwendet wird, die Bezeichnung der Geschosse",
+          "correct": true
+        },
+        {
+          "key": "d",
+          "text": "Beschusszeichen",
+          "correct": true
+        },
+        {
+          "key": "e",
+          "text": "Herstellungsnummer",
+          "correct": true
+        },
+        {
+          "key": "f",
+          "text": "bei Importwaffen unter anderem auch Einfuhrland (Länderkürzel) und Einfuhrjahr.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.05",
+      "chapter": "Kapitel I. 56",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 61,
+      "type": "multiple_choice",
+      "prompt": "Welche der nebenstehenden Kennzeichen sind nicht auf einer waffenbesitzkartenpflichtigen Schusswaffe zu finden?",
+      "options": [
+        {
+          "key": "b",
+          "text": "seit 20.10.2014:",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.06",
+      "chapter": "Kapitel I. 56",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 61,
+      "type": "self_assessment",
+      "prompt": "Wie sind Schreckschuss-, Reizstoffund Signalwaffen gekennzeichnet, deren Erwerb und Besitz erlaubnisfrei ist?",
+      "options": [],
+      "answer_text": "Durch das Zulassungszeichen „PTB im Kreis“ (PTB = Physikalisch-Technische Bundesanstalt)."
+    },
+    {
+      "id": "3.07",
+      "chapter": "Kapitel I. 56",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 61,
+      "type": "multiple_choice",
+      "prompt": "Welche Kennzeichnung muss eine erlaubnispflichtige Feuerwaffe mindestens aufweisen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hersteller- oder Händlerzeichen, Seriennummer, Modell, Bezeichnung der Munition",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Hersteller- oder Händlerzeichen, Herstellungsland (Länderkürzel), Seriennummer, Beschusszeichen, Bezeichnung der Munition, bei Importwaffen unter anderem auch Einfuhrland (Landeskürzel) und Einfuhrjahr",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Hersteller- oder Händlerzeichen, Seriennummer, Herstellungsjahr, Bezeichnung der Munition",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.08",
+      "chapter": "Kapitel I. 56",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 61,
+      "type": "multiple_choice",
+      "prompt": "Welche Kennzeichen müssen auf der kleinsten Verpackungseinheit von Patronen angebracht sein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Hersteller- oder Fertigungszeichen, Fertigungsserie, Patronendaten, Zulassungszeichen",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Herstellungsdatum, Patronenkaliber",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "keine",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.09",
+      "chapter": "Kapitel I. 56",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 61,
+      "type": "self_assessment",
+      "prompt": "Handfeuerwaffen müssen Beschusszeichen tragen. Was wird geprüft?",
+      "options": [],
+      "answer_text": "- Haltbarkeit, - Funktionssicherheit, - Maßhaltigkeit und - richtige Kennzeichnung."
+    },
+    {
+      "id": "3.10",
+      "chapter": "Kapitel I. 57",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 62,
+      "type": "multiple_choice",
+      "prompt": "Welche Waffenteile unterliegen, bei Einfuhr in den Geltungsbereich des Waffengesetzes, der Kennzeichnungspflicht des § 24 Abs. 1 des Waffengesetzes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Mindestens ein wesentliches Waffenteil muss entsprechend den gesetzlichen Vorgaben gekennzeichnet sein.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Alle wesentlichen Waffenteile müssen entsprechend den gesetzlichen Vorgaben gekennzeichnet sein.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Es ist ausreichend wenn sich eine Seriennummer auf dem Lauf der Waffe befindet.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.11",
+      "chapter": "Kapitel I. 57",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 62,
+      "type": "multiple_choice",
+      "prompt": "Welche Kennzeichnung muss die Randfeuerpatrone aufweisen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kaliberangabe auf der Hülse",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Herstellerzeichen auf der Hülse",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Kaliber und Herstellerzeichen auf der Hülse",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.12",
+      "chapter": "Kapitel I. 57",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 62,
+      "type": "multiple_choice",
+      "prompt": "Welche Kennzeichnung muss die Zentralfeuerpatrone aufweisen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Kaliberangabe und Geschossart auf dem Hülsenboden",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Herstellerzeichen auf dem Hülsenhals",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Herstellerzeichen und Bezeichnung der Munition auf der Hülse",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.13",
+      "chapter": "Kapitel I. 57",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 62,
+      "type": "multiple_choice",
+      "prompt": "Was bedeutet der Zusatz „R“ in der Munitionsbezeichnung?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Patrone mit Rand",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Randfeuerpatrone",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Patrone für Revolver (R = Revolver)",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.14",
+      "chapter": "Kapitel I. 57",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 62,
+      "type": "multiple_choice",
+      "prompt": "Welche zusätzlichen Angaben müssen Schrotpatronen im Kaliber 12/70 aufweisen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "keine zusätzlichen Angaben erforderlich",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "auf der Hülse die Längenangabe 70",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Angabe der Anzahl der Schrote",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.15",
+      "chapter": "Kapitel I. 57",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 62,
+      "type": "self_assessment",
+      "prompt": "Welche Kennzeichen müssen auf Zentralfeuermunition angebracht sein?",
+      "options": [],
+      "answer_text": "Auf der Hülse der Munition müssen das Herstellerzeichen und die Bezeichnung der Munition angebracht sein."
+    },
+    {
+      "id": "3.16",
+      "chapter": "Kapitel I. 58",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 63,
+      "type": "self_assessment",
+      "prompt": "Welche Kennzeichen müssen auf der kleinsten Verpackungseinheit der Munition angebracht sein?",
+      "options": [],
+      "answer_text": "- das Herstellerzeichen - das Fertigungszeichen (Fertigungsserie) - die Bezeichnung der Munition - Zulassungszeichen"
+    },
+    {
+      "id": "3.17",
+      "chapter": "Kapitel I. 58",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 63,
+      "type": "multiple_choice",
+      "prompt": "Welche Kennzeichnung muss auf einer Randfeuerpatrone angebracht sein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bezeichnung der Munition",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Randfeuer",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Herstellerzeichen",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.18",
+      "chapter": "Kapitel I. 58",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 63,
+      "type": "multiple_choice",
+      "prompt": "Welche Kennzeichen müssen auf der kleinsten Munitionsverpackungseinheit angebracht sein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Herstellerzeichen, Bezeichnung der Munition, Anzahl der Patronen in der Packung, Fertigungsserie (Losnummer), Zulassungszeichen",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Herstellerzeichen, Bezeichnung der Munition, Anzahl der Patronen in der Packung, Herstellungsjahr, Zulassungszeichen",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Herstellerzeichen, Bezeichnung der Munition, Anzahl der Patronen in der Packung, Fertigungsserie (Losnummer), Herstellungsdatum",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.19",
+      "chapter": "Kapitel I. 58",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 63,
+      "type": "multiple_choice",
+      "prompt": "Welche Kennzeichnung muss auf einer Zentralfeuerpatrone angebracht sein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bezeichnung der Munition und Geschossart",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Bezeichnung der Munition und Herstellerzeichen",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Bezeichnung der Munition und Losnummer",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.20",
+      "chapter": "Kapitel I. 58",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 63,
+      "type": "multiple_choice",
+      "prompt": "Welche Bedeutung hat ein Beschusszeichen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sicherheitsüberprüfung der Waffe beim zuständigen TÜV",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Die Waffe ist durch die PhysikalischTechnische Bundesanstalt auf Funktionsfähigkeit geprüft.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Die Waffe ist auf Haltbarkeit, Funktionssicherheit, Maßhaltigkeit und richtige Kennzeichnung durch ein anerkanntes Beschussamt geprüft.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.21",
+      "chapter": "Kapitel I. 59",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 64,
+      "type": "self_assessment",
+      "prompt": "Woran erkennt man, ob eine Schusswaffe zum Schießen zugelassen ist?",
+      "options": [],
+      "answer_text": "Die Waffe muss ein gültiges Prüf- und/oder Beschusszeichen tragen."
+    },
+    {
+      "id": "3.22",
+      "chapter": "Kapitel I. 59",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 64,
+      "type": "self_assessment",
+      "prompt": "Wann ist eine Schusswaffe erneut zum Beschuss vorzulegen?",
+      "options": [],
+      "answer_text": "Wenn ein wesentliches Teil ausgetauscht, verändert oder instandgesetzt worden ist."
+    },
+    {
+      "id": "3.23",
+      "chapter": "Kapitel I. 59",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 64,
+      "type": "multiple_choice",
+      "prompt": "Auf welchem Waffenteil muss das Beschusszeichen auch angebracht sein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Auf dem Lauf",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Auf dem Schaft",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Auf dem Visier",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.24",
+      "chapter": "Kapitel I. 59",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 64,
+      "type": "multiple_choice",
+      "prompt": "Welches Beschusszeichen trägt ein in der Bundesrepublik beschossener Revolver .357 Magnum?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bundesadler V / CIP S seit 20.10.2014",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Bundesadler N / CIP N seit 20.10.2014",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Bundesadler SP / CIP PN seit 20.10.2014",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.25",
+      "chapter": "Kapitel I. 59",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 64,
+      "type": "multiple_choice",
+      "prompt": "Was bedeutet das Beschusszeichen Bundesadler N bzw. CIP N? seit 20.10.2014",
+      "options": [
+        {
+          "key": "a",
+          "text": "Die Waffe ist behördlich geprüft und zum Schießen zugelassen.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Die Gebühren sind bezahlt.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Die Waffe ist gebraucht.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.26",
+      "chapter": "Kapitel I. 59",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 64,
+      "type": "multiple_choice",
+      "prompt": "Welche Schusswaffe muss ein amtliches Beschusszeichen tragen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ein jetzt hergestellter Nachbau einer Steinschlosspistole (Original 18. Jhdt.)",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Ein Druckluftgewehr, das dem Geschoss eine Energie von ca. 10 Joule erteilt.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Ordonnanzgewehr aus dem 2. Weltkrieg",
+          "correct": true
+        },
+        {
+          "key": "d",
+          "text": "Bauartgeprüfter Schreckschussrevolver im Kaliber bis 6 mm",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.27",
+      "chapter": "Kapitel I. 60",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 65,
+      "type": "multiple_choice",
+      "prompt": "Welche Beschussstempelung trägt üblicherweise eine in der Bundesrepublik Deutschland beschossene Schusswaffe?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Beschusszeichen in Form eines Bundesadlers (seit 20.10.2014 CIP-Zeichen) mit darunter liegendem Kennbuchstaben für die Art des Beschusses.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Ortszeichen für das Beschussamt",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Zahlen oder Buchstabencodierung für das Beschussdatum",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.28",
+      "chapter": "Kapitel I. 60",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 65,
+      "type": "multiple_choice",
+      "prompt": "Welche Bedeutung hat ein Beschusszeichen, bei dem ein Bundesadler (seit 20.10.2014 CIP-Zeichen) mit den darunter liegenden Buchstaben „PN“ abgebildet ist?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Die Waffe ist für das Schießen mit allen Munitionssorten (Schwarzpulver und rauchloses Pulver) im entsprechenden Kaliber zugelassen. (PN = Prüfung Normal)",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Die Waffe ist für das Schießen mit allen Munitionssorten im entsprechenden Kaliber zugelassen, die mit rauchlosem Pulver geladen sind. (PN = Prüfung Nitro)",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Die Waffe ist für das Schießen mit allen Munitionssorten im entsprechenden Kaliber zugelassen, die mit Schwarzpulver geladen sind. (PN = poudre noir)",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.29",
+      "chapter": "Kapitel I. 60",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 65,
+      "type": "multiple_choice",
+      "prompt": "Was wird bei einem amtlichen Beschuss geprüft?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Die Waffe wird auf Haltbarkeit, Funktionssicherheit, Maßhaltigkeit und Kennzeichnung geprüft.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Die Waffe wird auf Lebensdauer, Konstruktionsschlüssigkeit und Funktionstauglichkeit geprüft.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Die Waffe wird auf Präzision, Fertigungstoleranzen und Materialhärte geprüft.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.30",
+      "chapter": "Kapitel I. 60",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 65,
+      "type": "multiple_choice",
+      "prompt": "Auf welchen Waffenteilen muss das Beschusszeichen (auch) angebracht sein?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Lauf, Verschluss",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Schaft, Visier",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Sicherung, Magazin",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.31",
+      "chapter": "Kapitel I. 61",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 66,
+      "type": "multiple_choice",
+      "prompt": "Welche der folgenden Waffenteile unterliegen der Beschusspflicht?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Einsteckläufe für Zentralfeuerpatronen",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Wechseltrommeln",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Wechselsysteme",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.32",
+      "chapter": "Kapitel I. 61",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 66,
+      "type": "multiple_choice",
+      "prompt": "Werden in Deutschland auch Beschusszeichen anderer Staaten anerkannt?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, aller Staaten, die eine Sicherheitsprüfung vorschreiben.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, aber nur Staaten, die dem Übereinkommen über die gegenseitige Anerkennung von Beschusszeichen und Prüfzeichen beigetreten sind (C.I.P.).",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nein, alle Schusswaffen müssen vor ihrem Gebrauch von deutschen Beschussämtern geprüft sein.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.33",
+      "chapter": "Kapitel I. 61",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 66,
+      "type": "multiple_choice",
+      "prompt": "Bei welchen der folgenden ehemaligen Staaten ist der dortige amtliche Beschuss auch in der Bundesrepublik Deutschland weiterhin gültig? (D.h. die dort beschossenen Waffen müssen nicht von einem deutschen Beschussamt erneut beschossen werden.)",
+      "options": [
+        {
+          "key": "a",
+          "text": "CSSR",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "DDR",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Deutsches Reich (sollte sich ein Hakenkreuz auf der Waffe befinden, müsste das Hakenkreuz vom Beschussamt mit einem „X“ versehen werden)",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.34",
+      "chapter": "Kapitel I. 61",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 66,
+      "type": "multiple_choice",
+      "prompt": "Welche Schusswaffe muss neben dem Zulassungszeichen „F im Fünfeck“ noch als weiteres Zulassungszeichen „PTB im Quadrat“ tragen? (PTB = Physikalisch-Technische Bundesanstalt)",
+      "options": [
+        {
+          "key": "a",
+          "text": "Druckluftwaffen mit einer Bewegungsenergie bis zu 7,5 Joule.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Schusswaffen mit kleinerem Kaliber als .22lr und einer Bewegungsenergie bis zu 10 Joule.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Feuerwaffen, deren Geschossen eine Bewegungsenergie von nicht mehr als 7,5 Joule erteilt wird.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "3.35",
+      "chapter": "Kapitel I. 62",
+      "section": "3. Kennzeichnung von Schusswaffen und Munition",
+      "page": 67,
+      "type": "multiple_choice",
+      "prompt": "Welche Bedeutung hat das Zeichen „F im Fünfeck“?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Das Zeichen „F im Fünfeck“ kennzeichnet Waffen, die von volljährigen Personen erlaubnisfrei erworben werden dürfen.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Das Zeichen „F im Fünfeck“ kennzeichnet Waffen, deren Geschossenergie E0 maximal 7,5 Joule beträgt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Das Zeichen „F im Fünfeck“ kennzeichnet Waffen, deren Mündungsgeschwindigkeit unter 7,5 m/s. liegt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.01",
+      "chapter": "Kapitel I. 63",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 68,
+      "type": "multiple_choice",
+      "prompt": "Wo darf eine erlaubnispflichtige Kurzwaffe gelagert werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "In einem Waffenschrank der Sicherheitsstufe A nach VDMA 24992, sofern sich keine dazu passende Munition im Schrank befindet.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "In einem Waffenschrank der Sicherheitsstufe B nach VDMA 24992, sofern sich keine dazu passende Munition im Schrank befindet wenn der Schrank bereits vor dem 06.07.2017 rechtmäßig vom Betroffenen zur Waffenaufbewahrung genutzt wurde.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "In einem Waffenschrank der Norm DIN/EN 1143- 1 mit dem Widerstandsgrad 0.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.02",
+      "chapter": "Kapitel I. 63",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 68,
+      "type": "multiple_choice",
+      "prompt": "Welchem Sicherheitsstandard muss ein Waffenschrank mindestens entsprechen, damit Waffen und dazu passende Munition zusammen darin aufbewahrt werden dürfen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sicherheitsstufe B nach VDMA 24992, Schrankgewicht über 200kg",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "DIN/EN 1143- 1 Widerstandsgrad 0",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "DIN/EN 1143- 1 Widerstandsgrad I",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.03",
+      "chapter": "Kapitel I. 63",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 68,
+      "type": "multiple_choice",
+      "prompt": "In welchem Behältnis darf erlaubnispflichtige Munition gelagert werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wohnzimmerschrank mit Sicherheitsschloss",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Blechschrank mit Vorhängeschloss",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Stahlblechbehältnis mit Schwenkriegelschloss",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.04",
+      "chapter": "Kapitel I. 63",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 68,
+      "type": "multiple_choice",
+      "prompt": "Darf die Erlaubnisbehörde gegen den Willen des Erlaubnisinhabers dessen Wohnräume betreten, um die ordnungsgemäße Waffenaufbewahrung zu überprüfen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, dies ist stets zulässig.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, sofern eine dringende Gefahr für die öffentliche Sicherheit besteht.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Ja, aber nur mit einem richterlichen Durchsuchungsbefehl.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.05",
+      "chapter": "Kapitel I. 63",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 68,
+      "type": "multiple_choice",
+      "prompt": "Schusswaffen sind aufzubewahren...",
+      "options": [
+        {
+          "key": "a",
+          "text": "an einem versteckten Ort.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "nur bei der Erlaubnisbehörde.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "in einem Behältnis der entsprechenden Sicherheitsstufe.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.06",
+      "chapter": "Kapitel I. 64",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 69,
+      "type": "multiple_choice",
+      "prompt": "Wo müssen erlaubnispflichtige Schusswaffen und Munition aufbewahrt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Im Kleiderschrank",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "In einer verschlossenen und alarmgesicherten Familienwohnung.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "In einem Behältnis der entsprechenden Sicherheitsstufe.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.07",
+      "chapter": "Kapitel I. 64",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 69,
+      "type": "multiple_choice",
+      "prompt": "Gegen unbefugten Zugriff ist eine erlaubnispflichtige Pistole zu Hause gesichert, wenn sie…",
+      "options": [
+        {
+          "key": "a",
+          "text": "versteckt im Bücherregal liegt.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "im abgeschlossenen Waffenkoffer im Schrank aufbewahrt wird.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "in einem Behältnis der Norm DIN/EN 1143-1 Widerstandsgrad 0 oder I aufbewahrt wird.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.08",
+      "chapter": "Kapitel I. 64",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 69,
+      "type": "multiple_choice",
+      "prompt": "Gegen unbefugten Zugriff ist eine erlaubnispflichtige Langwaffe gesichert, wenn sie...",
+      "options": [
+        {
+          "key": "a",
+          "text": "sich in einem abgeschlossenen Waffenschrank der Norm DIN/EN 1143-1 Widerstandsgrad 0 oder I befindet.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "im Gewehrständer steht.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "an der Wand hängt und mit einem Schloss gesichert ist.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.09",
+      "chapter": "Kapitel I. 64",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 69,
+      "type": "multiple_choice",
+      "prompt": "Sind Sie in Bezug auf die sichere Verwahrung ihrer Waffe(n) oder Munition zur Auskunft gegenüber der Behörde verpflichtet?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Es besteht keine Pflicht zum Nachweis über die sichere Verwahrung.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, wer Waffen oder Munition besitzt, hat der zuständigen Behörde die zur sicheren Verwahrung getroffenen Maßnahmen nachzuweisen.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nein, nur wenn mehr als 10 Schusswaffen im Besitz sind.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.10",
+      "chapter": "Kapitel I. 64",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 69,
+      "type": "self_assessment",
+      "prompt": "Wozu kann die nicht ordnungsgemäße Aufbewahrung von Waffen oder Munition u.a. führen?",
+      "options": [],
+      "answer_text": "Zum Verlust der waffenrechtlichen Zuverlässigkeit."
+    },
+    {
+      "id": "4.11",
+      "chapter": "Kapitel I. 64",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 69,
+      "type": "multiple_choice",
+      "prompt": "Ist die gemeinschaftliche Aufbewahrung von Waffen oder Munition durch berechtigte Personen, die in einer häuslichen Gemeinschaft leben, zulässig?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Nein",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.12",
+      "chapter": "Kapitel I. 65",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 70,
+      "type": "multiple_choice",
+      "prompt": "Wozu kann die nicht ordnungsgemäße Aufbewahrung von Waffen oder Munition u.a. führen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Eine nicht ordnungsgemäße Aufbewahrung von Waffen stellt einen Straftatbestand im Sinne des Waffengesetzes dar.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Verlust der persönlichen Eignung",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Die nicht ordnungsgemäße Aufbewahrung von Waffen stellt lediglich einen Ordnungswidrigkeitentatbestand dar.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.13",
+      "chapter": "Kapitel I. 65",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 70,
+      "type": "multiple_choice",
+      "prompt": "Wie können Waffen und Munition außerhalb der Wohnung, z.B. bei Hotelübernachtung anlässlich eines Wettkampfes, sicher aufbewahrt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Die Schusswaffe/n ist/sind immer am Körper zu tragen.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ein wesentlicher Teil der Schusswaffe/n ist zu entnehmen und mit sich zu führen. Der Rest der Schusswaffe ist gegen unbefugten Zugriff zu sichern.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Aufbewahrung in einem Transportbehältnis oder in einem verschlossenen Schrank oder einem sonstigen verschlossenen Behältnis.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.14",
+      "chapter": "Kapitel I. 65",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 70,
+      "type": "multiple_choice",
+      "prompt": "Wie sind bei einem Transport von Waffen und Munition in einem Fahrzeug diese bei kurzfristigem Verlassen des Fahrzeuges (Einnahme des Mittagessens, Tanken, Schüsseltreiben, Einkäufe etc.) aufzubewahren?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Waffen und Munition sind in dem verschlossenen Fahrzeug so aufzubewahren, dass keine unmittelbaren Rückschlüsse auf die Art des Inhaltes erkennbar sind.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Die Waffe/n darf/dürfen hierbei nicht im Fahrzeug verbleiben.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.15",
+      "chapter": "Kapitel I. 65",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 70,
+      "type": "multiple_choice",
+      "prompt": "Wie sind erlaubnispflichtige Kurzwaffen aufzubewahren (bei dem Bestehen einer waffenrechtlichen Erlaubnis vor dem 06.07.2017 und Fortführung der Nutzung eines vorhandenen Behältnisses)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "In einer Stahlkassette der Sicherheitsstufe A nach VDMA 24992.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "In einem Sicherheitsbehältnis der Sicherheitsstufe B der Norm VDMA 24992 oder einem Behältnis der Sicherheitsstufe DIN/EN 1143- 1 Widerstandsgrad 0 oder I.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "In einer Truhe mit Schwenkriegelschloss im verschlossenen Keller.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.16",
+      "chapter": "Kapitel I. 66",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 71,
+      "type": "multiple_choice",
+      "prompt": "Wie sind erlaubnispflichtige Kurzwaffen aufzubewahren (Erteilung einer waffenrechtlichen Erlaubnis und dem damit verbunden Erwerb einer Schusswaffe nach dem 06.07.2017)?",
+      "options": [
+        {
+          "key": "a",
+          "text": "In einem Sicherheitsbehältnis der Sicherheitsstufe B der Norm VDMA 24992.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "In einem Sicherheitsbehältnis der Sicherheitsstufe DIN/EN 1143-1 Widerstandsgrad 0 oder I.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "In einem Sicherheitsbehältnis der Sicherheitsstufe A der Norm VDMA 24992.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.17",
+      "chapter": "Kapitel I. 66",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 71,
+      "type": "multiple_choice",
+      "prompt": "Welche Mindestanforderungen gelten für die dauerhafte Aufbewahrung von Waffen und Munition?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Munition ist im Stahlbehältnis mit Schwenkriegelschloss oder gleichwertigem Behältnis aufzubewahren.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Maximal 5 Kurzwaffen in einem Tresor mit Widerstandsgrad 0 (DIN/EN 11431) bis 200 kg. Über 200 kg je 10 Kurzwaffen. Über 10 Kurzwaffen Widerstandsgrad I.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Bis zu 10 Langwaffen je A-Schrank. Über 10 Langwaffen im B-Schrank.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.18",
+      "chapter": "Kapitel I. 66",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 71,
+      "type": "multiple_choice",
+      "prompt": "Wie dürfen acht erlaubnispflichtige Kurzwaffen untern anderem sicher vor unbefugtem Zugriff dauerhaft aufbewahrt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "In einem Tresor der Sicherheitsstufe B mit mehr als 200 Kilogramm Gewicht (VDMA 24992) (wenn der Tresor bereits vor dem 06.07.2017 rechtmäßig vom Betroffenen zur Waffenaufbewahrung genutzt wurde).",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "In einem Tresor mit Widerstandsgrad 0 (DIN/EN 1143-1), dessen Gewicht mindesten 200 kg beträgt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "In einem Tresor der Sicherheitsstufe A (VDMA 24992).",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.19",
+      "chapter": "Kapitel I. 66",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 71,
+      "type": "multiple_choice",
+      "prompt": "Welche und wie viele erlaubnispflichtigen Schusswaffen dürfen Sie in einem Schrank der Sicherheitsstufe A nach VDMA 24992 (bei dem Bestehen einer waffenrechtlichen Erlaubnis vor dem 06.07.2017 und Fortführung der Nutzung eines vorhandenen Behältnisses) dauerhaft aufbewahren?",
+      "options": [
+        {
+          "key": "a",
+          "text": "5 Kurzwaffen",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "5 Langwaffen und 5 Kurzwaffen",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "10 Langwaffen",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.20",
+      "chapter": "Kapitel I. 67",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 72,
+      "type": "multiple_choice",
+      "prompt": "Dürfen Sie während des Urlaubes einem Vereinskameraden Ihre WBKpflichtige Schusswaffe zur sicheren Aufbewahrung überlassen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, wenn er selbst auch eine WBK besitzt und über ein entsprechendes Behältnis verfügt.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Nein, das ist nicht gestattet.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Dies ist unter Vereinsmitgliedern gestattet.",
+          "correct": false
+        },
+        {
+          "key": "d",
+          "text": "Ja, es ist ausreichend, dass er ein entsprechendes Behältnis besitzt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.21",
+      "chapter": "Kapitel I. 67",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 72,
+      "type": "multiple_choice",
+      "prompt": "Wem dürfen Sie während Ihres Urlaubs eine erlaubnispflichtige Waffe vorübergehend zur sicheren Aufbewahrung überlassen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Waffenhändler",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Dem Nachbarn, der die Waffe in seiner Werkbank im Hobbyraum lagert.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Einem Inhaber einer Waffenbesitzkarte",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.22",
+      "chapter": "Kapitel I. 67",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 72,
+      "type": "multiple_choice",
+      "prompt": "Wie sind erlaubnispflichtige Langwaffen aufzubewahren?",
+      "options": [
+        {
+          "key": "a",
+          "text": "In einem Sicherheitsbehältnis der Sicherheitsstufe B der Norm VDMA 24992.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "In einem Sicherheitsbehältnis der Sicherheitsstufe DIN/EN 1143-1 Widerstandsgrad 0 oder I.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "In einem Sicherheitsbehältnis der Sicherheitsstufe A der Norm VDMA 24992.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "4.23",
+      "chapter": "Kapitel I. 67",
+      "section": "4. Aufbewahrung von Schusswaffen und Munition",
+      "page": 72,
+      "type": "multiple_choice",
+      "prompt": "Gelten die Aufbewahrungsvorschriften des Waffengesetzes auch für sogenannte Salutwaffen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, vollumfänglich",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nein, aber der Besitzer hat die erforderlichen Vorkehrungen zu treffen, um zu verhindern, dass diese abhanden kommen oder Dritte sie unbefugt an sich nehmen.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.01",
+      "chapter": "Kapitel I. 68",
+      "section": "5. Notwehr und Notstand",
+      "page": 73,
+      "type": "self_assessment",
+      "prompt": "Was ist Notwehr? Notwehr ist diejenige, die ist, um einen Angriff von sich oder einem anderen abzuwenden.",
+      "options": [],
+      "answer_text": "Lösung: Notwehr ist diejenige Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen abzuwenden."
+    },
+    {
+      "id": "5.02",
+      "chapter": "Kapitel I. 68",
+      "section": "5. Notwehr und Notstand",
+      "page": 73,
+      "type": "self_assessment",
+      "prompt": "Was ist Notwehr?",
+      "options": [],
+      "answer_text": "Notwehr ist diejenige Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen abzuwenden."
+    },
+    {
+      "id": "5.03",
+      "chapter": "Kapitel I. 68",
+      "section": "5. Notwehr und Notstand",
+      "page": 73,
+      "type": "multiple_choice",
+      "prompt": "Notwehr ist...",
+      "options": [
+        {
+          "key": "a",
+          "text": "jede Abwehr eines gegenwärtigen und rechtswidrigen Angriffs von sich und anderen.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "jede Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff von sich oder einem anderen abzuwenden.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "jede Verteidigung, die erforderlich ist, um jeden Angriff von sich oder einem anderen abzuwenden.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.04",
+      "chapter": "Kapitel I. 68",
+      "section": "5. Notwehr und Notstand",
+      "page": 73,
+      "type": "multiple_choice",
+      "prompt": "Gegen wen findet im Falle der Notwehr die Verteidigungshandlung statt?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Angreifer",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Zuschauer",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Angegriffener",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.05",
+      "chapter": "Kapitel I. 68",
+      "section": "5. Notwehr und Notstand",
+      "page": 73,
+      "type": "multiple_choice",
+      "prompt": "In Notwehr darf man handeln bei einem Angriff...",
+      "options": [
+        {
+          "key": "a",
+          "text": "nur auf Leib und Leben.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "auf jedes Individual-Rechtsgut.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "nur gegen das Eigentum.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.06",
+      "chapter": "Kapitel I. 68",
+      "section": "5. Notwehr und Notstand",
+      "page": 73,
+      "type": "multiple_choice",
+      "prompt": "Welches sind Voraussetzungen der Notwehr?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Verteidigungslage",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Verteidigungswille",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Erforderlichkeit",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.07",
+      "chapter": "Kapitel I. 69",
+      "section": "5. Notwehr und Notstand",
+      "page": 74,
+      "type": "multiple_choice",
+      "prompt": "Durch eine Notwehrhandlung entfällt die/der …?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Rechtswidrigkeit",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Vorsatz",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Schuld",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.08",
+      "chapter": "Kapitel I. 69",
+      "section": "5. Notwehr und Notstand",
+      "page": 74,
+      "type": "multiple_choice",
+      "prompt": "Notwehr mit einer Schusswaffe ist nicht gerechtfertigt...",
+      "options": [
+        {
+          "key": "a",
+          "text": "bei Beleidigung.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "bei lebensgefährlichem tätlichem Angriff auf den Ehepartner.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.09",
+      "chapter": "Kapitel I. 69",
+      "section": "5. Notwehr und Notstand",
+      "page": 74,
+      "type": "multiple_choice",
+      "prompt": "Schusswaffengebrauch als Notwehr kann als letztes Mittel zulässig sein,",
+      "options": [
+        {
+          "key": "a",
+          "text": "wenn dem Angriff ausgewichen werden kann.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "wenn der Angriff mit einem Messer erfolgt.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "wenn der Angreifer mit der Faust droht.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.10",
+      "chapter": "Kapitel I. 69",
+      "section": "5. Notwehr und Notstand",
+      "page": 74,
+      "type": "multiple_choice",
+      "prompt": "Ist ein Schusswaffengebrauch in Notwehr zulässig, wenn der Angegriffene dem Angriff ausweichen kann?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nein, niemals",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ist der Einsatz eines milderen Mittels zur Abwehr des Angriffs möglich, ist der Schusswaffengebrauch nicht zulässig.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Grundsätzlich ist dem Angegriffenen ein Ausweichen nicht zumutbar, da dies seine Ehre verletzt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.11",
+      "chapter": "Kapitel I. 69",
+      "section": "5. Notwehr und Notstand",
+      "page": 74,
+      "type": "multiple_choice",
+      "prompt": "Soll im Notwehrfall vor dem Gebrauch der Schusswaffe gewarnt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, das ist Voraussetzung für einen rechtmäßigen Schusswaffengebrauch.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ja, soweit die Umstände es erlauben.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Nein, das ist nicht erforderlich.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.12",
+      "chapter": "Kapitel I. 69",
+      "section": "5. Notwehr und Notstand",
+      "page": 74,
+      "type": "multiple_choice",
+      "prompt": "Darf in einer Notwehrsituation immer von der Schusswaffe Gebrauch gemacht werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nur wenn kein milderes Mittel zur Verfügung steht, um den Angriff abzuwehren.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Der Schusswaffengebrauch ist stets als allerletzter Ausweg aus einer bedrohlichen Situation zu betrachten.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Ja, immer",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.13",
+      "chapter": "Kapitel I. 70",
+      "section": "5. Notwehr und Notstand",
+      "page": 75,
+      "type": "multiple_choice",
+      "prompt": "Sollte im Notwehrfall der Angreifer vor dem Gebrauch der Schusswaffe gewarnt werden?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Nein",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Wenn möglich durch Zuruf und/oder Warnschuss.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Das Zeigen der Waffe reicht aus, um den Angriff zu beenden.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.14",
+      "chapter": "Kapitel I. 70",
+      "section": "5. Notwehr und Notstand",
+      "page": 75,
+      "type": "self_assessment",
+      "prompt": "Soll im Notwehrfall der Angreifer vor dem Gebrauch der Schusswaffe gewarnt werden?",
+      "options": [],
+      "answer_text": "Ja, soweit es die Umstände erlauben. (Es sollte vor dem Schusswaffengebrauch durch Zuruf, Warnschuss oder auf andere Weise gewarnt werden.)"
+    },
+    {
+      "id": "5.15",
+      "chapter": "Kapitel I. 70",
+      "section": "5. Notwehr und Notstand",
+      "page": 75,
+      "type": "multiple_choice",
+      "prompt": "Dürfen Sie in jeder Notwehrsituation von der Schusswaffe Gebrauch machen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ja, immer",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Nein, allenfalls bei einem Angriff auf Leben, Leib oder erhebliche Rechtsgüter des Einzelnen.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Ja, auch wenn der Angriff durch mildere Mittel abgewehrt werden kann.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.16",
+      "chapter": "Kapitel I. 70",
+      "section": "5. Notwehr und Notstand",
+      "page": 75,
+      "type": "multiple_choice",
+      "prompt": "Wie lange besteht eine Notwehrsituation fort?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bis der Angreifer weggelaufen ist.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Solange der Angriff andauert.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Bis ich den Angreifer der Polizei übergeben habe.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.17",
+      "chapter": "Kapitel I. 70",
+      "section": "5. Notwehr und Notstand",
+      "page": 75,
+      "type": "multiple_choice",
+      "prompt": "Wie lange besteht eine Notwehrsituation fort?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Bis der Gegner bewusstlos bzw. geflüchtet ist.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Solange der Angriff andauert.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Bis ich gefahrlos dem Angriff ausweichen kann, wenn ich dadurch keine wesentlichen Rechtsgüter aufgeben muss.",
+          "correct": true
+        },
+        {
+          "key": "d",
+          "text": "Auf jeden Fall bis die Polizei eintrifft.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.18",
+      "chapter": "Kapitel I. 71",
+      "section": "5. Notwehr und Notstand",
+      "page": 76,
+      "type": "multiple_choice",
+      "prompt": "Was versteht man unter „Putativnotwehr“?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Überschreitung der Notwehr.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ein gegenwärtiger, rechtswidriger Angriff wird von einem anderen Angegriffenen abgewehrt.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Irrtümliche Annahme einer Notwehrsituation.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.19",
+      "chapter": "Kapitel I. 71",
+      "section": "5. Notwehr und Notstand",
+      "page": 76,
+      "type": "multiple_choice",
+      "prompt": "Worauf müssen Sie bei Notwehr vorrangig achten?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Die Unversehrtheit meines Eigentums.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Die Verteidigung mit allen Mitteln.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Eine angemessene Verteidigung. (Verhältnismäßigkeit)",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.20",
+      "chapter": "Kapitel I. 71",
+      "section": "5. Notwehr und Notstand",
+      "page": 76,
+      "type": "self_assessment",
+      "prompt": "Was bedeutet Notwehrüberschreitung?",
+      "options": [],
+      "answer_text": "Notwehrüberschreitung oder Notwehrexzess liegt vor, wenn der Verteidiger das erforderliche Maß der Abwehr überschreitet."
+    },
+    {
+      "id": "5.21",
+      "chapter": "Kapitel I. 71",
+      "section": "5. Notwehr und Notstand",
+      "page": 76,
+      "type": "self_assessment",
+      "prompt": "Erklären Sie den Begriff „Notwehrexzess“ und seine strafrechtliche Bedeutung!",
+      "options": [],
+      "answer_text": "Beim Notwehrexzess wird das zulässige Maß der Abwehr überschritten. Das Handeln wird nur dann entschuldigt, wenn in Furcht, Verwirrung oder Schrecken über die Grenzen der Notwehr hinausgegangen worden ist."
+    },
+    {
+      "id": "5.22",
+      "chapter": "Kapitel I. 71",
+      "section": "5. Notwehr und Notstand",
+      "page": 76,
+      "type": "self_assessment",
+      "prompt": "Was ist Notstand?",
+      "options": [],
+      "answer_text": "Bei einem Notstand besteht eine gegenwärtige Gefahr für ein Rechtsgut, die nur durch Verletzung eines anderen Rechtsgutes abgewendet werden kann, wobei eine Abwägung der widerstreitenden Interessen stattfinden muss, in deren Ergebnis das als minderwertiger erkannte Rechtsgut geopfert wird."
+    },
+    {
+      "id": "5.23",
+      "chapter": "Kapitel I. 71",
+      "section": "5. Notwehr und Notstand",
+      "page": 76,
+      "type": "self_assessment",
+      "prompt": "Was bedeutet rechtfertigender Notstand?",
+      "options": [],
+      "answer_text": "In rechtfertigendem Notstand handelt, wer in einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben, Leib, Freiheit, Ehre, Eigentum oder ein anderes Rechtsgut eine Tat begeht, um die Gefahr von sich oder einem Anderen abzuwenden, wenn bei Abwägung der widerstreitenden Interessen das geschützte Interesse das beeinträchtigte wesentlich überwiegt."
+    },
+    {
+      "id": "5.24",
+      "chapter": "Kapitel I. 71",
+      "section": "5. Notwehr und Notstand",
+      "page": 76,
+      "type": "self_assessment",
+      "prompt": "Was bedeutet entschuldigender Notstand?",
+      "options": [],
+      "answer_text": "Wer in einer gegenwärtigen, nicht anders abwendbaren Gefahr für Leben, Leib oder Freiheit eine rechtswidrige Tat begeht, um die Gefahr von sich, einem Angehörigen oder einer anderen ihm nahestehenden Person abzuwenden, handelt ohne Schuld."
+    },
+    {
+      "id": "5.25",
+      "chapter": "Kapitel I. 72",
+      "section": "5. Notwehr und Notstand",
+      "page": 77,
+      "type": "multiple_choice",
+      "prompt": "Welche Situation beurteilen Sie als Notstandslage?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Sie finden eine geladene Jagdwaffe im Wald.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Sie werden durch ein herrenloses Tier angegriffen.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Sie werden durch eine Person angegriffen.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.26",
+      "chapter": "Kapitel I. 72",
+      "section": "5. Notwehr und Notstand",
+      "page": 77,
+      "type": "self_assessment",
+      "prompt": "Nennen Sie vier wesentliche Voraussetzungen für den rechtfertigenden Notstand!",
+      "options": [],
+      "answer_text": "1. Gegenwärtige Gefahr liegt vor. 2. Rechtsgüter sind bedroht (Leben, Leib, Freiheit, Ehre, Eigentum). 3. Das zu schützende Rechtsgut ist wesentlich höherwertiger als das beeinträchtigte. 4. Die Abwehrhandlung muss angemessen sein."
+    },
+    {
+      "id": "5.27",
+      "chapter": "Kapitel I. 72",
+      "section": "5. Notwehr und Notstand",
+      "page": 77,
+      "type": "multiple_choice",
+      "prompt": "Welches sind die Voraussetzungen des rechtfertigenden Notstandes?",
+      "options": [
+        {
+          "key": "a",
+          "text": "gegenwärtige, nicht mit geringerem Eingriff abwehrbare Gefahr für ein Rechtsgut; wesentliches Überwiegen des geschützten Interesses",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Absicht, die Gefahr nicht von sich oder einem anderen abzuwenden",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "gegenwärtiger rechtswidriger Angriff",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.28",
+      "chapter": "Kapitel I. 72",
+      "section": "5. Notwehr und Notstand",
+      "page": 77,
+      "type": "self_assessment",
+      "prompt": "Was versteht man unter Nothilfe?",
+      "options": [],
+      "answer_text": "Die Abwehr eines Angriffes gegen einen Anderen; sie ist ein Unterfall der Notwehr; die Voraussetzungen sind gleich."
+    },
+    {
+      "id": "5.29",
+      "chapter": "Kapitel I. 72",
+      "section": "5. Notwehr und Notstand",
+      "page": 77,
+      "type": "multiple_choice",
+      "prompt": "Nothilfe ist diejenige Verteidigung, die erforderlich ist, um einen gegenwärtigen rechtswidrigen Angriff...",
+      "options": [
+        {
+          "key": "a",
+          "text": "von sich selbst abzuwenden.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "von einem anderen abzuwenden.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "vom eigenen Auto abzuwenden.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.30",
+      "chapter": "Kapitel I. 72",
+      "section": "5. Notwehr und Notstand",
+      "page": 77,
+      "type": "self_assessment",
+      "prompt": "Was ist ein gegenwärtiger Angriff?",
+      "options": [],
+      "answer_text": "Jede unmittelbar bevorstehende, gerade stattfindende oder fortdauernde Verletzung eines Rechtsgutes."
+    },
+    {
+      "id": "5.31",
+      "chapter": "Kapitel I. 72",
+      "section": "5. Notwehr und Notstand",
+      "page": 77,
+      "type": "self_assessment",
+      "prompt": "Welche Verteidigungshandlung ist erforderlich, um einen Angriff abzuwenden?",
+      "options": [],
+      "answer_text": "Die Erforderlichkeit bestimmt sich nach Stärke und Gefährlichkeit des Angriffs; grundsätzlich ist das mildeste Mittel zur Abwehr zu wählen, das erfolgversprechend ist."
+    },
+    {
+      "id": "5.32",
+      "chapter": "Kapitel I. 73",
+      "section": "5. Notwehr und Notstand",
+      "page": 78,
+      "type": "multiple_choice",
+      "prompt": "Wann ist ein Angriff gegenwärtig?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wenn er abgeschlossen ist.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Wenn er unmittelbar bevorsteht.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Solange er andauert.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.33",
+      "chapter": "Kapitel I. 73",
+      "section": "5. Notwehr und Notstand",
+      "page": 78,
+      "type": "multiple_choice",
+      "prompt": "Wann ist ein Angriff gegenwärtig?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Wenn zu befürchten ist, dass durch eine Drohung des Angreifers zukünftig eine Gefahr für Leib und Leben eintreten könnte.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Wenn ein Angriff unmittelbar bevorsteht oder noch nicht beendet ist.",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Wenn der Angreifer in die Flucht geschlagen ist, aber mit einem späteren Angriff droht.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.34",
+      "chapter": "Kapitel I. 73",
+      "section": "5. Notwehr und Notstand",
+      "page": 78,
+      "type": "multiple_choice",
+      "prompt": "Wann ist die Gefahr gegenwärtig?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Es kann jeden Augenblick ein Schaden eintreten.",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Es wird vielleicht ein Schaden eintreten.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Es ist ein Schaden eingetreten.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.35",
+      "chapter": "Kapitel I. 73",
+      "section": "5. Notwehr und Notstand",
+      "page": 78,
+      "type": "self_assessment",
+      "prompt": "Was bedeutet „rechtswidrig“?",
+      "options": [],
+      "answer_text": "Ein Angriff ist rechtswidrig, wenn er gegen eine Rechtsnorm verstößt und ein Rechtfertigungsgrund nicht gegeben ist."
+    },
+    {
+      "id": "5.36",
+      "chapter": "Kapitel I. 73",
+      "section": "5. Notwehr und Notstand",
+      "page": 78,
+      "type": "multiple_choice",
+      "prompt": "Was ist Ihre Pflicht nach einem abgewehrten Angriff?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Ich habe keinerlei Pflichten gegenüber dem Angreifer.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Ich bin zum Schadensersatz verpflichtet.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Wenn die Notwendigkeit erkennbar und die Situation zumutbar ist, habe ich Hilfe zu leisten.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.37",
+      "chapter": "Kapitel I. 73",
+      "section": "5. Notwehr und Notstand",
+      "page": 78,
+      "type": "multiple_choice",
+      "prompt": "Regelungen über Notwehr und Notstand finden Sie im...",
+      "options": [
+        {
+          "key": "a",
+          "text": "Grundgesetz",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Waffengesetz",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Strafgesetzbuch / BGB",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.38",
+      "chapter": "Kapitel I. 74",
+      "section": "5. Notwehr und Notstand",
+      "page": 79,
+      "type": "multiple_choice",
+      "prompt": "Was sind u.a. Rechtfertigungsgründe nach dem Strafgesetzbuch?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Notwehr",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Nothilfe",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Notstand",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.39",
+      "chapter": "Kapitel I. 74",
+      "section": "5. Notwehr und Notstand",
+      "page": 79,
+      "type": "multiple_choice",
+      "prompt": "Welches ist das höchste Rechtsgut?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Freiheit",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Eigentum",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Leib / Leben",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.40",
+      "chapter": "Kapitel I. 74",
+      "section": "5. Notwehr und Notstand",
+      "page": 79,
+      "type": "multiple_choice",
+      "prompt": "Bei der Abwehr eines nicht auf Kommando angreifenden Hundes handeln Sie...",
+      "options": [
+        {
+          "key": "a",
+          "text": "in Notwehr.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "in Nothilfe.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "in Notstand.",
+          "correct": true
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.41",
+      "chapter": "Kapitel I. 74",
+      "section": "5. Notwehr und Notstand",
+      "page": 79,
+      "type": "self_assessment",
+      "prompt": "Dürfen Sie auch bei der Gefahr des Verlustes geringwertiger Gegenstände von der Schusswaffe Gebrauch machen?",
+      "options": [],
+      "answer_text": "Nein (Bei der Gefahr des Verlustes geringwertiger Gegenstände ist Schusswaffengebrauch keine durch Notwehr gebotene Verteidigungshandlung.)"
+    },
+    {
+      "id": "5.42",
+      "chapter": "Kapitel I. 74",
+      "section": "5. Notwehr und Notstand",
+      "page": 79,
+      "type": "multiple_choice",
+      "prompt": "Sie beobachten wie jemand mit einer Schusswaffe bedroht wird. Sie greifen mit Ihrer Schusswaffe ein. Dabei wird der Angreifer verletzt. Es stellt sich hinterher heraus, dass kein rechtswidriger Angriff vorlag, weil es sich um Filmaufnahmen handelte. Sie handelten in…",
+      "options": [
+        {
+          "key": "a",
+          "text": "Putativnotwehr (scheinbare Notwehr).",
+          "correct": true
+        },
+        {
+          "key": "b",
+          "text": "Notstand.",
+          "correct": false
+        },
+        {
+          "key": "c",
+          "text": "Notwehrexzess.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    },
+    {
+      "id": "5.43",
+      "chapter": "Kapitel I. 74",
+      "section": "5. Notwehr und Notstand",
+      "page": 79,
+      "type": "multiple_choice",
+      "prompt": "Eine Person bricht Ihren PKW auf. Sie sehen das vom Fenster Ihres Hauses aus und schießen. Die Person wird dabei verletzt. Wie ist die Situation zu beurteilen?",
+      "options": [
+        {
+          "key": "a",
+          "text": "Der Einsatz der Schusswaffe war durch Notwehr gerechtfertigt.",
+          "correct": false
+        },
+        {
+          "key": "b",
+          "text": "Die Notwehr wurde überschritten (Notwehrexzess).",
+          "correct": true
+        },
+        {
+          "key": "c",
+          "text": "Der Einsatz der Schusswaffe war durch Nothilfe gerechtfertigt.",
+          "correct": false
+        }
+      ],
+      "answer_text": null
+    }
+  ]
+};
