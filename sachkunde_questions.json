@@ -1779,7 +1779,7 @@
         {
           "key": "b",
           "text": "3 Jahre",
-          "correct": false
+          "correct": true
         },
         {
           "key": "c",
